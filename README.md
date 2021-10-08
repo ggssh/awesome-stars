@@ -54,6 +54,7 @@
 
 ## C++ 
 
+- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [PacktPublishing/Learn-LLVM-12](https://github.com/PacktPublishing/Learn-LLVM-12) - Learn LLVM 12, published by Packt
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 - [Tiramisu-Compiler/tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - A polyhedral compiler for expressing fast and portable data parallel algorithms
@@ -200,6 +201,11 @@
 
 ## Rust 
 
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) - Website for graphing performance of rustc
 - [nervosnetwork/ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [P-bibs/skiff](https://github.com/P-bibs/skiff) - A gradually-typed, functional scripting language with a friendly syntax and interpreter written in Rust!
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
