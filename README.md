@@ -27,6 +27,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
+  - [Verilog](#verilog)
 
 ## ANTLR 
 
@@ -201,6 +202,8 @@
 
 ## Rust 
 
+- [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
+- [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana-maintained on-chain programs
 - [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU's.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
@@ -278,6 +281,10 @@
 ## V 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+
+## Verilog 
+
+- [zhanghai/archexp](https://github.com/zhanghai/archexp) - 浙江大学计算机体系结构课程实验
 
 
 ## License
