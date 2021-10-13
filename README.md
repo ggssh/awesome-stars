@@ -56,6 +56,8 @@
 
 ## C++ 
 
+- [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
+- [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [PacktPublishing/Learn-LLVM-12](https://github.com/PacktPublishing/Learn-LLVM-12) - Learn LLVM 12, published by Packt
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
@@ -205,6 +207,8 @@
 
 ## Rust 
 
+- [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
+- [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift) - Cranelift based backend for rustc
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP)
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
