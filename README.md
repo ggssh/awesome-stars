@@ -270,6 +270,7 @@
 
 ## Shell 
 
+- [decaf-lang/minidecaf-tutorial](https://github.com/decaf-lang/minidecaf-tutorial) - The MiniDecaf tutorial documentation.
 - [deyuhua/xv6-book-chinese](https://github.com/deyuhua/xv6-book-chinese) - MIT操作系统工程的教学操作系统Xv6的源码剖析中文翻译项目，使用ANSI标准C重新在riscv架构上实现Unix v6；
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 
