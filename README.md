@@ -56,6 +56,7 @@
 
 ## C++ 
 
+- [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
 - [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
@@ -207,6 +208,7 @@
 
 ## Rust 
 
+- [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift) - Cranelift based backend for rustc
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
