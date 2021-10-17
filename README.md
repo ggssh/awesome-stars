@@ -35,6 +35,7 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
 - [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
 - [kaist-cp/rv6](https://github.com/kaist-cp/rv6) - 
@@ -56,6 +57,7 @@
 
 ## C++ 
 
+- [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
 - [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
