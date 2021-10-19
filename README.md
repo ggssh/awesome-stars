@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
@@ -166,6 +167,8 @@
 
 ## Others 
 
+- [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust中文资源汇总
+- [Berrysoft/cargo-ui](https://github.com/Berrysoft/cargo-ui) - GUI for Cargo
 - [liexusong/linux-source-code-analyze](https://github.com/liexusong/linux-source-code-analyze) - Linux源码分析
 - [Salenmicro/wenyan-lang-llvm](https://github.com/Salenmicro/wenyan-lang-llvm) - 文言文语言编译器，前端采用Antlr做lexer和parser，利用AST生成LLVM IR
 - [decaf-lang/minidecaf](https://github.com/decaf-lang/minidecaf) - The MiniDecaf compilers.
@@ -210,6 +213,11 @@
 
 ## Rust 
 
+- [cyndis/qmlrs](https://github.com/cyndis/qmlrs) - QtQuick interface for Rust
+- [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
+- [douchuan/jvm](https://github.com/douchuan/jvm) - JVM in Rust, written as a learning project.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
@@ -276,6 +284,7 @@
 
 ## Shell 
 
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [decaf-lang/minidecaf-tutorial](https://github.com/decaf-lang/minidecaf-tutorial) - The MiniDecaf tutorial documentation.
 - [deyuhua/xv6-book-chinese](https://github.com/deyuhua/xv6-book-chinese) - MIT操作系统工程的教学操作系统Xv6的源码剖析中文翻译项目，使用ANSI标准C重新在riscv架构上实现Unix v6；
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
