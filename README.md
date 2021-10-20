@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
@@ -167,6 +168,7 @@
 
 ## Others 
 
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust中文资源汇总
 - [Berrysoft/cargo-ui](https://github.com/Berrysoft/cargo-ui) - GUI for Cargo
 - [liexusong/linux-source-code-analyze](https://github.com/liexusong/linux-source-code-analyze) - Linux源码分析
@@ -213,6 +215,7 @@
 
 ## Rust 
 
+- [king6cong/thread_forever](https://github.com/king6cong/thread_forever) - guardian of your daemon thread
 - [cyndis/qmlrs](https://github.com/cyndis/qmlrs) - QtQuick interface for Rust
 - [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
 - [douchuan/jvm](https://github.com/douchuan/jvm) - JVM in Rust, written as a learning project.
