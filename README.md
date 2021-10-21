@@ -215,6 +215,9 @@
 
 ## Rust 
 
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
+- [rust-num/num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust
 - [king6cong/thread_forever](https://github.com/king6cong/thread_forever) - guardian of your daemon thread
 - [cyndis/qmlrs](https://github.com/cyndis/qmlrs) - QtQuick interface for Rust
 - [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
@@ -294,6 +297,7 @@
 
 ## Stylus 
 
+- [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 - [rcore-os/blog](https://github.com/rcore-os/blog) - rcore-os Developer Blog
 
 ## TeX 
