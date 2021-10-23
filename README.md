@@ -168,6 +168,8 @@
 
 ## Others 
 
+- [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
+- [ggssh/kaoyan_diary](https://github.com/ggssh/kaoyan_diary) - 每日学习记录
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust中文资源汇总
 - [Berrysoft/cargo-ui](https://github.com/Berrysoft/cargo-ui) - GUI for Cargo
@@ -215,6 +217,12 @@
 
 ## Rust 
 
+- [ks0n/goOSe](https://github.com/ks0n/goOSe) - A minimal Kernel written in Rust
+- [zonyitoo/mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust
+- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
+- [tokio-rs/tokio-minihttp](https://github.com/tokio-rs/tokio-minihttp) - Protocol implementation experimentations
+- [vinted/elasticsearch-dsl-rs](https://github.com/vinted/elasticsearch-dsl-rs) - Strongly typed Elasticsearch DSL written in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
