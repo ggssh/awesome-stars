@@ -168,6 +168,8 @@
 
 ## Others 
 
+- [loongson-education/nscscc-wiki](https://github.com/loongson-education/nscscc-wiki) - NSCSCC 信息整合
+- [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [ggssh/kaoyan_diary](https://github.com/ggssh/kaoyan_diary) - 每日学习记录
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -217,6 +219,12 @@
 
 ## Rust 
 
+- [Phala-Network/phala-blockchain](https://github.com/Phala-Network/phala-blockchain) - The Phala Network Blockchain, pRuntime and the bridge.
+- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [sap-lang/sap-lang](https://github.com/sap-lang/sap-lang) - Next-GEN Confguration Template Generation Language
+- [rrevenantt/antlr4rust](https://github.com/rrevenantt/antlr4rust) - ANTLR4 parser generator runtime for Rust programming laguage
+- [rust-vmm/vm-memory](https://github.com/rust-vmm/vm-memory) - Virtual machine's guest memory crate
+- [gabdube/native-windows-gui](https://github.com/gabdube/native-windows-gui) - A light windows GUI toolkit for rust
 - [ks0n/goOSe](https://github.com/ks0n/goOSe) - A minimal Kernel written in Rust
 - [zonyitoo/mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust
 - [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
