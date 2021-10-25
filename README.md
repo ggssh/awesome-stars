@@ -35,6 +35,7 @@
 
 ## C 
 
+- [Fedjmike/mini-c](https://github.com/Fedjmike/mini-c) - Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
 - [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
@@ -57,6 +58,8 @@
 
 ## C++ 
 
+- [fawdlstty/fa](https://github.com/fawdlstty/fa) - fa 语言编译器
+- [banach-space/clang-tutor](https://github.com/banach-space/clang-tutor) - A collection of out-of-tree Clang plugins for teaching and learning
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
@@ -110,6 +113,7 @@
 
 ## CMake 
 
+- [pku-minic/sysy-cmake-template](https://github.com/pku-minic/sysy-cmake-template) - Template for CMake based SysY compiler projects
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
@@ -168,6 +172,7 @@
 
 ## Others 
 
+- [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [loongson-education/nscscc-wiki](https://github.com/loongson-education/nscscc-wiki) - NSCSCC 信息整合
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
@@ -219,6 +224,10 @@
 
 ## Rust 
 
+- [KuangjuX/labs-net-rs](https://github.com/KuangjuX/labs-net-rs) - TCP server implementation using various methods.
+- [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
+- [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A blazing fast library for consuming the DWARF debugging format
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [Phala-Network/phala-blockchain](https://github.com/Phala-Network/phala-blockchain) - The Phala Network Blockchain, pRuntime and the bridge.
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [sap-lang/sap-lang](https://github.com/sap-lang/sap-lang) - Next-GEN Confguration Template Generation Language
