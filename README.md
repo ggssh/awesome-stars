@@ -113,7 +113,7 @@
 
 ## CMake 
 
-- [pku-minic/sysy-cmake-template](https://github.com/pku-minic/sysy-cmake-template) - Template for CMake based SysY compiler projects
+- [pku-minic/sysy-cmake-template](https://github.com/pku-minic/sysy-cmake-template) - Template for CMake based SysY compiler projects.
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
@@ -172,6 +172,7 @@
 
 ## Others 
 
+- [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [loongson-education/nscscc-wiki](https://github.com/loongson-education/nscscc-wiki) - NSCSCC 信息整合
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
@@ -224,6 +225,8 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
+- [pku-minic/sysy-cargo-template](https://github.com/pku-minic/sysy-cargo-template) - Template for Cargo based SysY compiler projects.
 - [KuangjuX/labs-net-rs](https://github.com/KuangjuX/labs-net-rs) - TCP server implementation using various methods.
 - [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
 - [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A blazing fast library for consuming the DWARF debugging format
