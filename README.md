@@ -225,6 +225,10 @@
 
 ## Rust 
 
+- [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
+- [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
+- [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
+- [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [pku-minic/sysy-cargo-template](https://github.com/pku-minic/sysy-cargo-template) - Template for Cargo based SysY compiler projects.
 - [KuangjuX/labs-net-rs](https://github.com/KuangjuX/labs-net-rs) - TCP server implementation using various methods.
