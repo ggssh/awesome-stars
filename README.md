@@ -22,6 +22,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Stylus](#stylus)
   - [TeX](#tex)
@@ -58,6 +59,7 @@
 
 ## C++ 
 
+- [Birdee-lang/Birdee2](https://github.com/Birdee-lang/Birdee2) - Birdee Language compiler and runtime
 - [fawdlstty/fa](https://github.com/fawdlstty/fa) - fa 语言编译器
 - [banach-space/clang-tutor](https://github.com/banach-space/clang-tutor) - A collection of out-of-tree Clang plugins for teaching and learning
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -172,6 +174,8 @@
 
 ## Others 
 
+- [Glavo/kala-lang](https://github.com/Glavo/kala-lang) - 
+- [oscourse-tsinghua/undergraduate-topic](https://github.com/oscourse-tsinghua/undergraduate-topic) - http://os.cs.tsinghua.edu.cn/research/FrontPage#A.2BZyx50WvVi74-
 - [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [loongson-education/nscscc-wiki](https://github.com/loongson-education/nscscc-wiki) - NSCSCC 信息整合
@@ -225,6 +229,11 @@
 
 ## Rust 
 
+- [MashPlant/lalr1](https://github.com/MashPlant/lalr1) - An LALR1(1)/LL(1) parser generator in Rust, for multiple languages.
+- [decaf-lang/decaf-rs](https://github.com/decaf-lang/decaf-rs) - The Decaf compiler, written in Rust
+- [rust-vmm/vmm-reference](https://github.com/rust-vmm/vmm-reference) - A VMM implementation based of rust-vmm components
+- [rust-vmm/vhost](https://github.com/rust-vmm/vhost) - 
+- [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/chromiumos/platform/crosvm/
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
@@ -320,6 +329,10 @@
 - [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
+
+## Scala 
+
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
 
 ## Shell 
 
