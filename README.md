@@ -36,6 +36,7 @@
 
 ## C 
 
+- [NJU-ProjectN/nemu](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
 - [Fedjmike/mini-c](https://github.com/Fedjmike/mini-c) - Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
@@ -174,6 +175,7 @@
 
 ## Others 
 
+- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) - RISC-V Packed SIMD Extension
 - [Glavo/kala-lang](https://github.com/Glavo/kala-lang) - 
 - [oscourse-tsinghua/undergraduate-topic](https://github.com/oscourse-tsinghua/undergraduate-topic) - http://os.cs.tsinghua.edu.cn/research/FrontPage#A.2BZyx50WvVi74-
 - [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
@@ -229,6 +231,8 @@
 
 ## Rust 
 
+- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
+- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [MashPlant/lalr1](https://github.com/MashPlant/lalr1) - An LALR1(1)/LL(1) parser generator in Rust, for multiple languages.
 - [decaf-lang/decaf-rs](https://github.com/decaf-lang/decaf-rs) - The Decaf compiler, written in Rust
 - [rust-vmm/vmm-reference](https://github.com/rust-vmm/vmm-reference) - A VMM implementation based of rust-vmm components
@@ -332,6 +336,8 @@
 
 ## Scala 
 
+- [ucb-bar/chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial) - chisel tutorial exercises and answers
+- [chipsalliance/chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
 
 ## Shell 
