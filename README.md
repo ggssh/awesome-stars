@@ -36,6 +36,7 @@
 
 ## C 
 
+- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [NJU-ProjectN/nemu](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
 - [Fedjmike/mini-c](https://github.com/Fedjmike/mini-c) - Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -60,6 +61,8 @@
 
 ## C++ 
 
+- [zslwyuan/LLVM-9.0-Learner-Tutorial](https://github.com/zslwyuan/LLVM-9.0-Learner-Tutorial) - A blog for LLVM(v9.0.0 or v11.0.0) beginner, step by step, with detailed documents and comments. Record the way I learn LLVM and accomplish a complete project for FPGA High-Level Synthesis with it.
+- [lesliefish/Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
 - [Birdee-lang/Birdee2](https://github.com/Birdee-lang/Birdee2) - Birdee Language compiler and runtime
 - [fawdlstty/fa](https://github.com/fawdlstty/fa) - fa 语言编译器
 - [banach-space/clang-tutor](https://github.com/banach-space/clang-tutor) - A collection of out-of-tree Clang plugins for teaching and learning
@@ -175,6 +178,7 @@
 
 ## Others 
 
+- [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) - RISC-V Packed SIMD Extension
 - [Glavo/kala-lang](https://github.com/Glavo/kala-lang) - 
 - [oscourse-tsinghua/undergraduate-topic](https://github.com/oscourse-tsinghua/undergraduate-topic) - http://os.cs.tsinghua.edu.cn/research/FrontPage#A.2BZyx50WvVi74-
@@ -342,6 +346,7 @@
 
 ## Shell 
 
+- [BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial) - BUAASE2019级的编译实验的实验指导与实验安排
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [decaf-lang/minidecaf-tutorial](https://github.com/decaf-lang/minidecaf-tutorial) - The MiniDecaf tutorial documentation.
 - [deyuhua/xv6-book-chinese](https://github.com/deyuhua/xv6-book-chinese) - MIT操作系统工程的教学操作系统Xv6的源码剖析中文翻译项目，使用ANSI标准C重新在riscv架构上实现Unix v6；
