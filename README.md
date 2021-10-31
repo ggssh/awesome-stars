@@ -11,6 +11,7 @@
   - [CMake](#cmake)
   - [Coq](#coq)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
@@ -18,6 +19,7 @@
   - [JavaScript](#javascript)
   - [LLVM](#llvm)
   - [Makefile](#makefile)
+  - [OCaml](#ocaml)
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -131,6 +133,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## Dockerfile 
+
+- [z4yx/vivado-docker](https://github.com/z4yx/vivado-docker) - Dockerfile with Vivado for CI
+
 ## Erlang 
 
 - [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine
@@ -174,10 +180,16 @@
 
 ## Makefile 
 
+- [elongbug/llvm-cookbook](https://github.com/elongbug/llvm-cookbook) - llvm-cookbook samples
 - [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
+
+## OCaml 
+
+- [mukul-rathi/bolt](https://github.com/mukul-rathi/bolt) - Bolt is a language with in-built data-race freedom!
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) - RISC-V Packed SIMD Extension
 - [Glavo/kala-lang](https://github.com/Glavo/kala-lang) - 
@@ -235,6 +247,7 @@
 
 ## Rust 
 
+- [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [MashPlant/lalr1](https://github.com/MashPlant/lalr1) - An LALR1(1)/LL(1) parser generator in Rust, for multiple languages.
