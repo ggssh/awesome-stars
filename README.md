@@ -17,6 +17,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [LLVM](#llvm)
   - [Makefile](#makefile)
   - [OCaml](#ocaml)
@@ -176,6 +177,10 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 
+## Kotlin 
+
+- [kvakil/venus](https://github.com/kvakil/venus) - RISC-V instruction set simulator built for education
+
 ## LLVM 
 
 - [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南
@@ -249,6 +254,8 @@
 
 ## Rust 
 
+- [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
+- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划 https://github.com/datafuselabs/databend
 - [tnballo/scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree.
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
 - [trishume/telefork](https://github.com/trishume/telefork) - Like fork() but teleports the forked process to a different computer!
@@ -378,6 +385,8 @@
 
 ## TeX 
 
+- [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
+- [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - http://os.cs.tsinghua.edu.cn/oscourse/OS2021spring
 
 ## TypeScript 
