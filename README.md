@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [yhirose/cpp-linenoise](https://github.com/yhirose/cpp-linenoise) - A single file multi-platform (Unix, Windows) C++ header-only linenoise-based readline library.
 - [zslwyuan/LLVM-9.0-Learner-Tutorial](https://github.com/zslwyuan/LLVM-9.0-Learner-Tutorial) - A blog for LLVM(v9.0.0 or v11.0.0) beginner, step by step, with detailed documents and comments. Record the way I learn LLVM and accomplish a complete project for FPGA High-Level Synthesis with it.
 - [lesliefish/Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
 - [Birdee-lang/Birdee2](https://github.com/Birdee-lang/Birdee2) - Birdee Language compiler and runtime
@@ -123,6 +124,7 @@
 
 ## CMake 
 
+- [AndrewGaspar/corrosion](https://github.com/AndrewGaspar/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [pku-minic/sysy-cmake-template](https://github.com/pku-minic/sysy-cmake-template) - Template for CMake based SysY compiler projects.
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -254,6 +256,7 @@
 
 ## Rust 
 
+- [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - 
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划 https://github.com/datafuselabs/databend
