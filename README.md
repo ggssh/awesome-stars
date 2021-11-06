@@ -389,6 +389,7 @@
 
 ## TeX 
 
+- [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - http://os.cs.tsinghua.edu.cn/oscourse/OS2021spring
