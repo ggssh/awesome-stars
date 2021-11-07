@@ -39,6 +39,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [kyx0r/tinycc](https://github.com/kyx0r/tinycc) - Single header C99 compiler (TCC)
 - [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [NJU-ProjectN/nemu](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
@@ -256,6 +257,9 @@
 
 ## Rust 
 
+- [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - 
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
