@@ -381,6 +381,7 @@
 
 ## Shell 
 
+- [compiler-explorer/compiler-workflows](https://github.com/compiler-explorer/compiler-workflows) - Workflows to build daily and ad hoc compilers for Compiler Explorer
 - [BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial) - BUAASE2019级的编译实验的实验指导与实验安排
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [decaf-lang/minidecaf-tutorial](https://github.com/decaf-lang/minidecaf-tutorial) - The MiniDecaf tutorial documentation.
