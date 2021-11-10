@@ -24,6 +24,7 @@
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -255,6 +256,10 @@
 - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [pandolia/tinyc](https://github.com/pandolia/tinyc) - https://pandolia.net/tinyc/
 
+## Ruby 
+
+- [brickpop/flutter-rust-ffi](https://github.com/brickpop/flutter-rust-ffi) - Starter project for Flutter plugins willing to access native and synchronous rust code using FFI
+
 ## Rust 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
@@ -375,6 +380,7 @@
 
 ## Scala 
 
+- [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
 - [ucb-bar/chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial) - chisel tutorial exercises and answers
 - [chipsalliance/chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
