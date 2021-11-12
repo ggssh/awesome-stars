@@ -262,6 +262,8 @@
 
 ## Rust 
 
+- [pleasewhy/SimpleAsyncTcp](https://github.com/pleasewhy/SimpleAsyncTcp) - A Simple asynchronous Tcp implemention
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
@@ -313,7 +315,7 @@
 - [cyndis/qmlrs](https://github.com/cyndis/qmlrs) - QtQuick interface for Rust
 - [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
 - [douchuan/jvm](https://github.com/douchuan/jvm) - JVM in Rust, written as a learning project.
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
@@ -409,6 +411,7 @@
 
 ## TypeScript 
 
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Icalingua/Icalingua](https://github.com/Icalingua/Icalingua) - A Linux client for QQ and more :electron:
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
 - [iTgo-lyq/Senki](https://github.com/iTgo-lyq/Senki) - 算法与数据结构可视化演练平台
