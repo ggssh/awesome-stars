@@ -40,6 +40,7 @@
 
 ## C 
 
+- [TianhuaTao/uCore-SMP](https://github.com/TianhuaTao/uCore-SMP) - A Symmetric Multiprocessing OS Kernel over RISC-V
 - [evilbinary/YiYiYa](https://github.com/evilbinary/YiYiYa) - YiYiYa 一个os
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [kyx0r/tinycc](https://github.com/kyx0r/tinycc) - Single header C99 compiler (TCC)
@@ -68,6 +69,7 @@
 
 ## C++ 
 
+- [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [yhirose/cpp-linenoise](https://github.com/yhirose/cpp-linenoise) - A single file multi-platform (Unix, Windows) C++ header-only linenoise-based readline library.
 - [zslwyuan/LLVM-9.0-Learner-Tutorial](https://github.com/zslwyuan/LLVM-9.0-Learner-Tutorial) - A blog for LLVM(v9.0.0 or v11.0.0) beginner, step by step, with detailed documents and comments. Record the way I learn LLVM and accomplish a complete project for FPGA High-Level Synthesis with it.
 - [lesliefish/Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
@@ -174,6 +176,7 @@
 
 ## JavaScript 
 
+- [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [zoo-js/zoo](https://github.com/zoo-js/zoo) - 🌈 Cute pet zoo. Come and adopt a cute you like. 萌萌乐园，全自动领养自己喜欢的萌物。
