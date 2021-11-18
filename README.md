@@ -267,6 +267,7 @@
 
 ## Rust 
 
+- [Pr47/Pr47](https://github.com/Pr47/Pr47) - The formal development repository for Pr47
 - [sajattack/bitbang-hal](https://github.com/sajattack/bitbang-hal) - Implements embedded-hal traits by bitbanging
 - [gordonbrander/subtext](https://github.com/gordonbrander/subtext) - Markup for note taking
 - [mbrubeck/robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
