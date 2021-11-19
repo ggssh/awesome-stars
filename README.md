@@ -267,6 +267,10 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
+- [KernelErr/MoeOS](https://github.com/KernelErr/MoeOS) - Cute tiny operating system for RISC-V. ฅ•ω•ฅ
+- [rcore-os/rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial) - Tutorial for rCore OS step by step (3rd edition)
 - [Pr47/Pr47](https://github.com/Pr47/Pr47) - The formal development repository for Pr47
 - [sajattack/bitbang-hal](https://github.com/sajattack/bitbang-hal) - Implements embedded-hal traits by bitbanging
 - [gordonbrander/subtext](https://github.com/gordonbrander/subtext) - Markup for note taking
