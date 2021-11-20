@@ -7,6 +7,7 @@
 
   - [ANTLR](#antlr)
   - [C](#c)
+  - [C#](#c#)
   - [C++](#c++)
   - [CMake](#cmake)
   - [Coq](#coq)
@@ -67,6 +68,10 @@
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 
+## C# # 
+
+- [falangorg/fa](https://github.com/falangorg/fa) - fa 语言编译器
+
 ## C++ 
 
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
@@ -74,7 +79,6 @@
 - [zslwyuan/LLVM-9.0-Learner-Tutorial](https://github.com/zslwyuan/LLVM-9.0-Learner-Tutorial) - A blog for LLVM(v9.0.0 or v11.0.0) beginner, step by step, with detailed documents and comments. Record the way I learn LLVM and accomplish a complete project for FPGA High-Level Synthesis with it.
 - [lesliefish/Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
 - [Birdee-lang/Birdee2](https://github.com/Birdee-lang/Birdee2) - Birdee Language compiler and runtime
-- [falangorg/fa](https://github.com/falangorg/fa) - fa 语言编译器
 - [banach-space/clang-tutor](https://github.com/banach-space/clang-tutor) - A collection of out-of-tree Clang plugins for teaching and learning
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -136,7 +140,7 @@
 
 ## Coq 
 
-- [plctlab/sail-riscv](https://github.com/plctlab/sail-riscv) - 
+- [plctlab/sail-riscv-dropped](https://github.com/plctlab/sail-riscv-dropped) - 
 
 ## Dart 
 
@@ -159,6 +163,7 @@
 
 ## HTML 
 
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [chyyuu/compiler_course_info](https://github.com/chyyuu/compiler_course_info) - compiler course info
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -176,6 +181,7 @@
 
 ## JavaScript 
 
+- [Boscop/web-view](https://github.com/Boscop/web-view) - Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -267,6 +273,8 @@
 
 ## Rust 
 
+- [tari/llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM. (Mirror of https://gitlab.com/taricorp/llvm-sys.rs/)
+- [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [KernelErr/MoeOS](https://github.com/KernelErr/MoeOS) - Cute tiny operating system for RISC-V. ฅ•ω•ฅ
@@ -329,7 +337,7 @@
 - [cyndis/qmlrs](https://github.com/cyndis/qmlrs) - QtQuick interface for Rust
 - [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
 - [douchuan/jvm](https://github.com/douchuan/jvm) - JVM in Rust, written as a learning project.
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
