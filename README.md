@@ -211,6 +211,9 @@
 
 ## Others 
 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+- [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 - [0voice/computer_expert_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
@@ -275,6 +278,8 @@
 
 ## Rust 
 
+- [BinChengZhao/delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
+- [BinChengZhao/delay-timer](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks. Like crontab, but synchronous asynchronous tasks are possible scheduling, and dynamic add/cancel/remove is supported.
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [Nugine/bfjit](https://github.com/Nugine/bfjit) - Brainfuck JIT 虚拟机教程
 - [tari/llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM. (Mirror of https://gitlab.com/taricorp/llvm-sys.rs/)
