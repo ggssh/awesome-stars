@@ -6,6 +6,7 @@
 ## Contents
 
   - [ANTLR](#antlr)
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -38,6 +39,10 @@
 ## ANTLR 
 
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
+## Assembly 
+
+- [Gstalker/Kernel-Learning](https://github.com/Gstalker/Kernel-Learning) - 从0开始写一个操作系统——《操作系统真象还原》
 
 ## C 
 
@@ -212,6 +217,7 @@
 
 ## Others 
 
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
