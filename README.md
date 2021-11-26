@@ -217,6 +217,7 @@
 
 ## Others 
 
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -263,6 +264,7 @@
 
 ## PowerShell 
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
 
 ## Python 
@@ -286,6 +288,7 @@
 
 ## Rust 
 
+- [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
