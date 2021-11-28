@@ -46,6 +46,7 @@
 
 ## C 
 
+- [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
 - [hoverwinter/HIT-OSLab](https://github.com/hoverwinter/HIT-OSLab) - S - 哈工大《操作系统》实验
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [TianhuaTao/uCore-SMP](https://github.com/TianhuaTao/uCore-SMP) - A Symmetric Multiprocessing OS Kernel over RISC-V
@@ -289,6 +290,7 @@
 
 ## Rust 
 
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI
