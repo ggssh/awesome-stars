@@ -83,6 +83,8 @@
 
 ## C++ 
 
+- [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [hunterzju/llvm-tutorial](https://github.com/hunterzju/llvm-tutorial) - llvm-tutorial文档，翻译以及代码仓库
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [yhirose/cpp-linenoise](https://github.com/yhirose/cpp-linenoise) - A single file multi-platform (Unix, Windows) C++ header-only linenoise-based readline library.
@@ -290,6 +292,8 @@
 
 ## Rust 
 
+- [rcore-os/riscv](https://github.com/rcore-os/riscv) - Low level access to RISCV processors
+- [sohardforaname/SimpleRustLuaJIT](https://github.com/sohardforaname/SimpleRustLuaJIT) - A simple lua jit implemented in Rust for HUST-Complier principle course.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
