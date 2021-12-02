@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [AIGMix/AIGCJson](https://github.com/AIGMix/AIGCJson) - Only need two lines of code to convert between class and json. 两行代码实现C++ Json与类对象相互转换。
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [hunterzju/llvm-tutorial](https://github.com/hunterzju/llvm-tutorial) - llvm-tutorial文档，翻译以及代码仓库
@@ -292,6 +293,8 @@
 
 ## Rust 
 
+- [sile/efmt](https://github.com/sile/efmt) - Erlang code formatter
+- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rcore-os/riscv](https://github.com/rcore-os/riscv) - Low level access to RISCV processors
 - [sohardforaname/SimpleRustLuaJIT](https://github.com/sohardforaname/SimpleRustLuaJIT) - A simple lua jit implemented in Rust for HUST-Complier principle course.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
@@ -321,7 +324,7 @@
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
-- [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - 
+- [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划 https://github.com/datafuselabs/databend
