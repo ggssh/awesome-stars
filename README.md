@@ -239,7 +239,6 @@
 - [loongson-education/nscscc-wiki](https://github.com/loongson-education/nscscc-wiki) - NSCSCC 信息整合
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [ggssh/kaoyan_diary](https://github.com/ggssh/kaoyan_diary) - 每日学习记录
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust资源汇总 中文版
 - [Berrysoft/cargo-ui](https://github.com/Berrysoft/cargo-ui) - GUI for Cargo
@@ -295,6 +294,7 @@
 
 ## Rust 
 
+- [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) - Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档 (Rust core library and standard library translation. can be used as IntelliSense for IDE tools, and can also generate local API documentation)
 - [starkat99/widestring-rs](https://github.com/starkat99/widestring-rs) - A wide string Rust library for converting to and from wide Unicode strings.
 - [wfly1998/DailySchedule_2020](https://github.com/wfly1998/DailySchedule_2020) - OS Tutorial Summer of Code 2020
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
