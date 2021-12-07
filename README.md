@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊
 - [Boscop/web-view](https://github.com/Boscop/web-view) - Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
@@ -294,6 +295,7 @@
 
 ## Rust 
 
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) - Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档 (Rust core library and standard library translation. can be used as IntelliSense for IDE tools, and can also generate local API documentation)
 - [starkat99/widestring-rs](https://github.com/starkat99/widestring-rs) - A wide string Rust library for converting to and from wide Unicode strings.
 - [wfly1998/DailySchedule_2020](https://github.com/wfly1998/DailySchedule_2020) - OS Tutorial Summer of Code 2020
