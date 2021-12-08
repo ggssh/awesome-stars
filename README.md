@@ -224,6 +224,7 @@
 
 ## Others 
 
+- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -295,11 +296,14 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) - Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档 (Rust core library and standard library translation. can be used as IntelliSense for IDE tools, and can also generate local API documentation)
 - [starkat99/widestring-rs](https://github.com/starkat99/widestring-rs) - A wide string Rust library for converting to and from wide Unicode strings.
 - [wfly1998/DailySchedule_2020](https://github.com/wfly1998/DailySchedule_2020) - OS Tutorial Summer of Code 2020
-- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
+- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [jsdw/yap](https://github.com/jsdw/yap) - Yet Another Parser library for Rust. A lightweight, dependency free, parser combinator inspired set of utility methods to help with parsing strings and slices.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [geom3trik/tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust
