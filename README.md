@@ -8,7 +8,6 @@
   - [ANTLR](#antlr)
   - [Assembly](#assembly)
   - [C](#c)
-  - [C#](#c#)
   - [C++](#c++)
   - [CMake](#cmake)
   - [Coq](#coq)
@@ -22,6 +21,7 @@
   - [Kotlin](#kotlin)
   - [LLVM](#llvm)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PowerShell](#powershell)
@@ -46,6 +46,7 @@
 
 ## C 
 
+- [wyfcyx/osnotes](https://github.com/wyfcyx/osnotes) - Some notes or translations about operating system or programming language.
 - [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
 - [hoverwinter/HIT-OSLab](https://github.com/hoverwinter/HIT-OSLab) - S - 哈工大《操作系统》实验
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -77,12 +78,9 @@
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 
-## C# # 
-
-- [fa-org/fa](https://github.com/fa-org/fa) - fa 语言编译器
-
 ## C++ 
 
+- [NotaRobotexe/BinaryTreeVisualiser](https://github.com/NotaRobotexe/BinaryTreeVisualiser) - Program for visualization of binary search tree. Written in C++ and Qt
 - [AIGMix/AIGCJson](https://github.com/AIGMix/AIGCJson) - Only need two lines of code to convert between class and json. 两行代码实现C++ Json与类对象相互转换。
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
@@ -176,6 +174,7 @@
 
 ## HTML 
 
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [chyyuu/compiler_course_info](https://github.com/chyyuu/compiler_course_info) - compiler course info
@@ -194,6 +193,7 @@
 
 ## JavaScript 
 
+- [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊
@@ -217,8 +217,12 @@
 
 ## Makefile 
 
-- [elongbug/llvm-cookbook](https://github.com/elongbug/llvm-cookbook) - llvm-cookbook samples
 - [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
+- [elongbug/llvm-cookbook](https://github.com/elongbug/llvm-cookbook) - llvm-cookbook samples
+
+## Markdown 
+
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## OCaml 
 
@@ -226,6 +230,9 @@
 
 ## Others 
 
+- [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
+- [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
@@ -268,7 +275,6 @@
 - [qingmei2/blogs](https://github.com/qingmei2/blogs) - 📝 The Android programing blogs（简体中文）.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
 
 ## PowerShell 
@@ -298,6 +304,16 @@
 
 ## Rust 
 
+- [crlf0710/tex-rs](https://github.com/crlf0710/tex-rs) - A port of TeX82 to Rust. (WIP)
+- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
+- [johannhof/markdown.rs](https://github.com/johannhof/markdown.rs) - Rust Markdown parsing library
+- [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) - static site generator from markdown files(markdown 格式静态博客生成器)
+- [1148118271/brave](https://github.com/1148118271/brave) - rust 实现的个人博客
+- [hailali/rust-blog](https://github.com/hailali/rust-blog) - Simple blog application developed with the RUST programming language
+- [OliverBrotchie/ob](https://github.com/OliverBrotchie/ob) - A Blog & RSS system written in Rust based on Luke Smith's LB.
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [ockam-network/ockam](https://github.com/ockam-network/ockam) - End-to-end encryption and mutual authentication for distributed applications.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
@@ -343,8 +359,8 @@
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
-- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划 https://github.com/datafuselabs/databend
-- [tnballo/scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree.
+- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend社区 支持https://github.com/datafuselabs/databend
+- [tnballo/scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap.
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
 - [trishume/telefork](https://github.com/trishume/telefork) - Like fork() but teleports the forked process to a different computer!
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
@@ -476,6 +492,7 @@
 
 ## TeX 
 
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
@@ -494,6 +511,8 @@
 
 ## Verilog 
 
+- [ultraembedded/riscv](https://github.com/ultraembedded/riscv) - RISC-V CPU Core (RV32IM)
+- [Evensgn/RISC-V-CPU](https://github.com/Evensgn/RISC-V-CPU) - RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.
 - [zhanghai/archexp](https://github.com/zhanghai/archexp) - 浙江大学计算机体系结构课程实验
 
 
