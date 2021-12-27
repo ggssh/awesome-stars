@@ -36,6 +36,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [Verilog](#verilog)
+  - [Vue](#vue)
 
 ## ANTLR 
 
@@ -96,6 +97,7 @@
 - [Birdee-lang/Birdee2](https://github.com/Birdee-lang/Birdee2) - Birdee Language compiler and runtime
 - [banach-space/clang-tutor](https://github.com/banach-space/clang-tutor) - A collection of out-of-tree Clang plugins for teaching and learning
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
@@ -118,14 +120,14 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [TrivialCompiler/TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
 - [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL) - TinySTL is a subset of STL(cut some containers and algorithms) and also a superset of STL(add some other containers and algorithms)
-- [downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - 📚 C++ Templates 2ed 笔记：C++11/14/17 模板技术
+- [downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - C++ Templates 2ed 笔记：C++11/14/17 模板，剖析 C++ 最复杂艰深的高级技术，揭秘基础设施库不可或缺的泛型编程
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Parallel programming for everyone.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [godgnidoc/alioth-compiler](https://github.com/godgnidoc/alioth-compiler) - Compiler of the Alioth programming language
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
@@ -147,7 +149,7 @@
 
 ## CMake 
 
-- [AndrewGaspar/corrosion](https://github.com/AndrewGaspar/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
+- [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [pku-minic/sysy-cmake-template](https://github.com/pku-minic/sysy-cmake-template) - Template for CMake based SysY compiler projects.
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -197,7 +199,6 @@
 
 ## JavaScript 
 
-- [sunface/rust-course](https://github.com/sunface/rust-course) - &lt;&lt;Rust语言圣经(The Course)&gt;&gt;，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。
 - [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -235,6 +236,8 @@
 
 ## Others 
 
+- [huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081) - 
+- [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one) - 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
@@ -256,7 +259,7 @@
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust资源汇总 中文版
+- [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust资源分享 中文版
 - [Berrysoft/cargo-ui](https://github.com/Berrysoft/cargo-ui) - GUI for Cargo
 - [liexusong/linux-source-code-analyze](https://github.com/liexusong/linux-source-code-analyze) - Linux源码分析
 - [Salenmicro/wenyan-lang-llvm](https://github.com/Salenmicro/wenyan-lang-llvm) - 文言文语言编译器，前端采用Antlr做lexer和parser，利用AST生成LLVM IR
@@ -309,8 +312,15 @@
 
 ## Rust 
 
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo script subcommand
+- [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
+- [servo/html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
+- [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [jntrnr/rustyjit](https://github.com/jntrnr/rustyjit) - A JIT experiment in Rust
 - [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token
+- [sunface/rust-course](https://github.com/sunface/rust-course) - &lt;&lt;Rust语言圣经(Rust Course)&gt;&gt;，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -490,7 +500,6 @@
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial) - BUAASE2019级的编译实验的实验指导与实验安排
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [decaf-lang/minidecaf-tutorial](https://github.com/decaf-lang/minidecaf-tutorial) - The MiniDecaf tutorial documentation.
 - [deyuhua/xv6-book-chinese](https://github.com/deyuhua/xv6-book-chinese) - MIT操作系统工程的教学操作系统Xv6的源码剖析中文翻译项目，使用ANSI标准C重新在riscv架构上实现Unix v6；
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -528,6 +537,10 @@
 - [ultraembedded/riscv](https://github.com/ultraembedded/riscv) - RISC-V CPU Core (RV32IM)
 - [Evensgn/RISC-V-CPU](https://github.com/Evensgn/RISC-V-CPU) - RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.
 - [zhanghai/archexp](https://github.com/zhanghai/archexp) - 浙江大学计算机体系结构课程实验
+
+## Vue 
+
+- [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 
 
 ## License
