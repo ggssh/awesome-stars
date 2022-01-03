@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [wyt2000/llvm-ustc-proj](https://github.com/wyt2000/llvm-ustc-proj) - Some Clang static analyzers.
 - [alextsao1999/hypermind](https://github.com/alextsao1999/hypermind) - C++写的一个脚本语言 增量式gc 多线程(目前还是简单的协同式哈哈)
 - [NotaRobotexe/BinaryTreeVisualiser](https://github.com/NotaRobotexe/BinaryTreeVisualiser) - Program for visualization of binary search tree. Written in C++ and Qt
 - [AIGMix/AIGCJson](https://github.com/AIGMix/AIGCJson) - Only need two lines of code to convert between class and json. 两行代码实现C++ Json与类对象相互转换。
@@ -236,6 +237,7 @@
 
 ## Others 
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081) - 
 - [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one) - 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
@@ -292,6 +294,7 @@
 
 ## Python 
 
+- [AdminWhaleFall/SMSBoom](https://github.com/AdminWhaleFall/SMSBoom) - 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！全网首发！！
 - [plctlab/openEuler-riscv](https://github.com/plctlab/openEuler-riscv) - Project magament for porting openEuler to RISC-V
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [compiler-explorer/compiler-workflows](https://github.com/compiler-explorer/compiler-workflows) - Workflows to build daily and ad hoc compilers for Compiler Explorer
@@ -312,6 +315,8 @@
 
 ## Rust 
 
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
+- [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo script subcommand
@@ -484,7 +489,7 @@
 - [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem
 - [zhangyuang/leetcode](https://github.com/zhangyuang/leetcode) - solve questions in leetcode by Rust
-- [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html
+- [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC-V in Rust from zero!
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
 
