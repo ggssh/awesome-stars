@@ -84,6 +84,9 @@
 
 ## C++ 
 
+- [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
+- [iiicp/c100](https://github.com/iiicp/c100) - 100天开发c编译器
+- [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [wyt2000/llvm-ustc-proj](https://github.com/wyt2000/llvm-ustc-proj) - Some Clang static analyzers.
 - [alextsao1999/hypermind](https://github.com/alextsao1999/hypermind) - C++写的一个脚本语言 增量式gc 多线程(目前还是简单的协同式哈哈)
 - [NotaRobotexe/BinaryTreeVisualiser](https://github.com/NotaRobotexe/BinaryTreeVisualiser) - Program for visualization of binary search tree. Written in C++ and Qt
@@ -200,6 +203,7 @@
 
 ## JavaScript 
 
+- [z729063706/ShenLongCopy](https://github.com/z729063706/ShenLongCopy) - 召唤神龙源码的拷贝，方便本地部署学习，未对代码进行任何修改
 - [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -325,7 +329,7 @@
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [jntrnr/rustyjit](https://github.com/jntrnr/rustyjit) - A JIT experiment in Rust
 - [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token
-- [sunface/rust-course](https://github.com/sunface/rust-course) - &lt;&lt;Rust语言圣经(Rust Course)&gt;&gt;，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。
+- [sunface/rust-course](https://github.com/sunface/rust-course) - &lt;&lt;Rust语言圣经(Book & Course)&gt;&gt;对Rust语言进行全面且深入的讲解，辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做全世界最好的开源Rust教程——学Rust就上course.rs。
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -503,6 +507,7 @@
 
 ## Shell 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial) - BUAASE2019级的编译实验的实验指导与实验安排
 - [decaf-lang/minidecaf-tutorial](https://github.com/decaf-lang/minidecaf-tutorial) - The MiniDecaf tutorial documentation.
