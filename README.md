@@ -10,6 +10,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CMake](#cmake)
+  - [CSS](#css)
   - [Coq](#coq)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -48,6 +49,7 @@
 
 ## C 
 
+- [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [eugene-tarassov/vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v) - Xilinx Vivado block designs for FPGA RISC-V SoC running Debian Linux distro
 - [LZU-OSLab/opensbi](https://github.com/LZU-OSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
@@ -92,7 +94,7 @@
 - [wildoranges/MahoShojo](https://github.com/wildoranges/MahoShojo) - 2021年华为毕昇杯中国科学技术大学Maho_Shojo队二等奖作品
 - [luooofan/hblzbd_compiler](https://github.com/luooofan/hblzbd_compiler) - A toy compiler that translates SysY (a subset of C language) into ARMv7a assembly.
 - [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
-- [iiicp/c100](https://github.com/iiicp/c100) - 100天开发c编译器
+- [iiicp/ccc](https://github.com/iiicp/ccc) - 100天开发c编译器
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [wyt2000/llvm-ustc-proj](https://github.com/wyt2000/llvm-ustc-proj) - Some Clang static analyzers.
 - [alextsao1999/hypermind](https://github.com/alextsao1999/hypermind) - C++写的一个脚本语言 增量式gc 多线程(目前还是简单的协同式哈哈)
@@ -165,6 +167,10 @@
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
+## CSS 
+
+- [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
+
 ## Coq 
 
 - [plctlab/sail-riscv-dropped](https://github.com/plctlab/sail-riscv-dropped) - 
@@ -207,7 +213,6 @@
 - [KunMinX/Smooth-Navigation](https://github.com/KunMinX/Smooth-Navigation) - 提供流畅的 Jetpack Navigation 转场体验。并解决 GitHub 上 Navigation Add Hide 修改版普遍存在的致命缺陷。
 - [lygttpod/AndroidCustomView](https://github.com/lygttpod/AndroidCustomView) - 带你在实战中学习自定义view，通过几个完整的例子带你走进自定义View的美妙世界
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## JavaScript 
 
@@ -302,6 +307,7 @@
 - [qingmei2/blogs](https://github.com/qingmei2/blogs) - 📝 The Android programing blogs（简体中文）.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
 
 ## PowerShell 
@@ -311,6 +317,9 @@
 
 ## Python 
 
+- [Chinese-boy/Many-Translaters](https://github.com/Chinese-boy/Many-Translaters) - 谷歌翻译，360翻译，iCIBA翻译，有道翻译，免费API
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [kholia/mips-hacking](https://github.com/kholia/mips-hacking) - Notes on QEMU and Debian MIPS (big-endian)
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
 - [AdminWhaleFall/SMSBoom](https://github.com/AdminWhaleFall/SMSBoom) - 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！全网首发！！
@@ -334,6 +343,7 @@
 
 ## Rust 
 
+- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -556,7 +566,6 @@
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [Icalingua/Icalingua](https://github.com/Icalingua/Icalingua) - A Linux client for QQ and more :electron:
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
 - [iTgo-lyq/Senki](https://github.com/iTgo-lyq/Senki) - 算法与数据结构可视化演练平台
 
@@ -572,6 +581,7 @@
 
 ## Vue 
 
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 
 
