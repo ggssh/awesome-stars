@@ -156,7 +156,7 @@
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [NJU-TJL/Qt5-MusicPlayer](https://github.com/NJU-TJL/Qt5-MusicPlayer) - 基于Qt5开发的一个小巧精美的本地音乐播放器。代码注释详细，适合作为一个用于入门的Qt5实战项目。
 - [zhangyqCS/CompilationPrinciple](https://github.com/zhangyqCS/CompilationPrinciple) - 编译原理课程设计和实验内容，课程设计实现了简单C语言编译器，包括词法分析、语法分析(LL1)、语义分析、四元式优化和目标代码生成。实验内容包括表达式语法分析器、词法分析扫描器、算术表达式四元式翻译器
-- [xmuli/QtExamples](https://github.com/xmuli/QtExamples) - Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCrator 使用和一些小技巧；系列文章教程
+- [xmuli/QtExamples](https://github.com/xmuli/QtExamples) - Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCreator 使用和一些小技巧；系列文章教程
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [godgnidoc/alioth-dev](https://github.com/godgnidoc/alioth-dev) - The Alioth programming language
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
@@ -210,7 +210,7 @@
 ## Java 
 
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [No-SF-Work/ayame](https://github.com/No-SF-Work/ayame) - A toy compiler that translates SysY (a subset of C language) into ARMv7a, implemented in Java15.
+- [No-SF-Work/ayame](https://github.com/No-SF-Work/ayame) - A compiler that translates SysY (a subset of C language) into ARMv7a, implemented in Java15.
 - [KunMinX/Smooth-Navigation](https://github.com/KunMinX/Smooth-Navigation) - 提供流畅的 Jetpack Navigation 转场体验。并解决 GitHub 上 Navigation Add Hide 修改版普遍存在的致命缺陷。
 - [lygttpod/AndroidCustomView](https://github.com/lygttpod/AndroidCustomView) - 带你在实战中学习自定义view，通过几个完整的例子带你走进自定义View的美妙世界
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
@@ -327,7 +327,7 @@
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
 - [AdminWhaleFall/SMSBoom](https://github.com/AdminWhaleFall/SMSBoom) - 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！全网首发！！
-- [plctlab/openEuler-riscv](https://github.com/plctlab/openEuler-riscv) - Project magament for porting openEuler to RISC-V
+- [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [compiler-explorer/compiler-workflows](https://github.com/compiler-explorer/compiler-workflows) - Workflows to build daily and ad hoc compilers for Compiler Explorer
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
@@ -347,6 +347,7 @@
 
 ## Rust 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON2 based)
@@ -386,7 +387,7 @@
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
-- [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) - Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档
+- [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) - Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档 (已停更)
 - [starkat99/widestring-rs](https://github.com/starkat99/widestring-rs) - A wide string Rust library for converting to and from wide Unicode strings.
 - [wfly1998/DailySchedule_2020](https://github.com/wfly1998/DailySchedule_2020) - OS Tutorial Summer of Code 2020
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
@@ -574,7 +575,7 @@
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - http://os.cs.tsinghua.edu.cn/oscourse/OS2021spring
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - OS Lectures 2022 Spring
 
 ## TypeScript 
 
@@ -583,7 +584,7 @@
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
 - [iTgo-lyq/Senki](https://github.com/iTgo-lyq/Senki) - 算法与数据结构可视化演练平台
 
 ## V 
@@ -598,6 +599,7 @@
 
 ## Vue 
 
+- [YAVGroup/Verilog-OJ](https://github.com/YAVGroup/Verilog-OJ) - Online judge server for Verilog | verilogoj.ustc.edu.cn
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 
