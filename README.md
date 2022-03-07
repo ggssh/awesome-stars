@@ -87,6 +87,9 @@
 
 ## C++ 
 
+- [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
+- [wwqqqqq/CompilePrinciple2017](https://github.com/wwqqqqq/CompilePrinciple2017) - Experiments in 'Compile Principle' course in 2017 fall.
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Jonathan2251/lbd](https://github.com/Jonathan2251/lbd) - 
 - [XiaoYaoYouUSTC/Cminusf-Compiler](https://github.com/XiaoYaoYouUSTC/Cminusf-Compiler) - 中国科学技术大学编译原理课程实验项目
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -95,25 +98,20 @@
 - [wildoranges/MahoShojo](https://github.com/wildoranges/MahoShojo) - 2021年华为毕昇杯中国科学技术大学Maho_Shojo队二等奖作品
 - [luooofan/hblzbd_compiler](https://github.com/luooofan/hblzbd_compiler) - A toy compiler that translates SysY (a subset of C language) into ARMv7a assembly.
 - [MaxXSoft/YuLang](https://github.com/MaxXSoft/YuLang) - The Yu (羽) programming language.
-- [iiicp/ccc](https://github.com/iiicp/ccc) - 100天开发c编译器
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [wyt2000/llvm-ustc-proj](https://github.com/wyt2000/llvm-ustc-proj) - Some Clang static analyzers.
 - [alextsao1999/hypermind](https://github.com/alextsao1999/hypermind) - C++写的一个脚本语言 lambda 增量式gc 多线程(目前还是简单的协同式)
 - [NotaRobotexe/BinaryTreeVisualiser](https://github.com/NotaRobotexe/BinaryTreeVisualiser) - Program for visualization of binary search tree. Written in C++ and Qt
-- [AIGMix/AIGCJson](https://github.com/AIGMix/AIGCJson) - Only need two lines of code to convert between class and json. 两行代码实现C++ Json与类对象相互转换。
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [hunterzju/llvm-tutorial](https://github.com/hunterzju/llvm-tutorial) - llvm-tutorial文档，翻译以及代码仓库
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [yhirose/cpp-linenoise](https://github.com/yhirose/cpp-linenoise) - A single file multi-platform (Unix, Windows) C++ header-only linenoise-based readline library.
-- [zslwyuan/LLVM-9.0-Learner-Tutorial](https://github.com/zslwyuan/LLVM-9.0-Learner-Tutorial) - A blog for LLVM(v9.0.0 or v11.0.0) beginner, step by step, with detailed documents and comments. Record the way I learn LLVM and accomplish a complete project for FPGA High-Level Synthesis with it.
 - [lesliefish/Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
 - [Birdee-lang/Birdee2](https://github.com/Birdee-lang/Birdee2) - Birdee Language compiler and runtime
 - [banach-space/clang-tutor](https://github.com/banach-space/clang-tutor) - A collection of out-of-tree Clang plugins for teaching and learning
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
 - [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
@@ -123,7 +121,6 @@
 - [Tiramisu-Compiler/tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - A polyhedral compiler for expressing fast and portable data parallel algorithms
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
-- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [lrq99/SimpleCppBison](https://github.com/lrq99/SimpleCppBison) - BJUT Principle of Compiler Experiment Example
 - [togetherwhenyouwant/Creator_1010_Compiler](https://github.com/togetherwhenyouwant/Creator_1010_Compiler) - 
 - [i-Pear/CSC2020-NEU-Q29tcGlsZXI-](https://github.com/i-Pear/CSC2020-NEU-Q29tcGlsZXI-) - A simple compiler for compiling SysY language into ARMv7-A instructions.
@@ -141,25 +138,19 @@
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [godgnidoc/alioth-compiler](https://github.com/godgnidoc/alioth-compiler) - Compiler of the Alioth programming language
-- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [Nomango/configor](https://github.com/Nomango/configor) - Light weight configuration library for C++
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
-- [zy445566/llvm-guide-zh](https://github.com/zy445566/llvm-guide-zh) - User Guides For those new to the LLVM system.(LLVM系统的新用户指南,中文翻译版)
 - [DaviesGit/SysY_compiler](https://github.com/DaviesGit/SysY_compiler) - 该编译器主要用来将SysY语言编译为arm汇编指令，并且对编译生成的代码进行优化。SysY 语言是 C 语言的一个子集。每个 SysY程序的源码存储在一个扩展名为 sy 的文件中。该文件中有且仅有一个名为 main的主函数定义,还可以包含若干全局变量声明、常量声明和其他函数定义。SysY语言支持 int 类型和元素为 int 类型且按行优先存储的多维数组类型,其中 int 型整数为 32 位有符号数;const 修饰符用于声明常量。
 - [aixiangfei/jack-compiler](https://github.com/aixiangfei/jack-compiler) - jack语言编译器
-- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [NJU-TJL/Qt5-MusicPlayer](https://github.com/NJU-TJL/Qt5-MusicPlayer) - 基于Qt5开发的一个小巧精美的本地音乐播放器。代码注释详细，适合作为一个用于入门的Qt5实战项目。
-- [zhangyqCS/CompilationPrinciple](https://github.com/zhangyqCS/CompilationPrinciple) - 编译原理课程设计和实验内容，课程设计实现了简单C语言编译器，包括词法分析、语法分析(LL1)、语义分析、四元式优化和目标代码生成。实验内容包括表达式语法分析器、词法分析扫描器、算术表达式四元式翻译器
 - [XMuli/QtExamples](https://github.com/XMuli/QtExamples) - Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCreator 使用和一些小技巧；系列文章教程
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [godgnidoc/alioth-dev](https://github.com/godgnidoc/alioth-dev) - The Alioth programming language
-- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 
 ## CMake 
 
@@ -220,7 +211,6 @@
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊
 - [Boscop/web-view](https://github.com/Boscop/web-view) - Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications
@@ -256,8 +246,13 @@
 
 ## Others 
 
+- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [oscomp/proj5-fuxi-full-system-with-cpu-compiler-os](https://github.com/oscomp/proj5-fuxi-full-system-with-cpu-compiler-os) - 实现CPU+Lang+Compiler+OS
+- [oscomp/proj52-OS-Tutor](https://github.com/oscomp/proj52-OS-Tutor) - OpenEuler应用助手。
+- [kelthuzadx/EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
 - [oscomp/proj9-zcore](https://github.com/oscomp/proj9-zcore) - 基于Rust语言的OS Kernel -- zCore
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
+- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - 使用我们精心挑选的开源代码，让你的 Rust 项目 Fancy 起来!
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -293,7 +288,7 @@
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [lazyparser/becoming-a-compiler-engineer-codes](https://github.com/lazyparser/becoming-a-compiler-engineer-codes) - 方舟编译入门技术课程的配套代码
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕计算机考研4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新2022大纲变化）
+- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕计算机考研4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（本仓库中包含部分复试内容，需要的小伙伴可以下载）
 - [lazyparser/becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
 - [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2022"相关信息
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
@@ -328,6 +323,7 @@
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
 - [AdminWhaleFall/SMSBoom](https://github.com/AdminWhaleFall/SMSBoom) - 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！全网首发！！
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [compiler-explorer/compiler-workflows](https://github.com/compiler-explorer/compiler-workflows) - Workflows to build daily and ad hoc compilers for Compiler Explorer
@@ -354,7 +350,6 @@
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON2 based)
-- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - Rust酷库推荐 - 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来!    Written with ❤️ by course.rs team
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -372,7 +367,7 @@
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [jntrnr/rustyjit](https://github.com/jntrnr/rustyjit) - A JIT experiment in Rust
 - [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无GC也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS未来基石" — 工作之余的第二语言来试试Rust吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的WASM和Deno等专题。这可能是目前最用心的Rust中文学习教程/书籍
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -395,7 +390,7 @@
 - [wfly1998/DailySchedule_2020](https://github.com/wfly1998/DailySchedule_2020) - OS Tutorial Summer of Code 2020
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [jsdw/yap](https://github.com/jsdw/yap) - Yet Another Parser library for Rust. A lightweight, dependency free, parser combinator inspired set of utility methods to help with parsing strings and slices.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
 - [geom3trik/tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust
 - [sile/efmt](https://github.com/sile/efmt) - Erlang code formatter
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
