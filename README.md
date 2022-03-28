@@ -50,6 +50,7 @@
 
 ## C 
 
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [eugene-tarassov/vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v) - Xilinx Vivado block designs for FPGA RISC-V SoC running Debian Linux distro
@@ -87,6 +88,7 @@
 
 ## C++ 
 
+- [adah1972/nvwa](https://github.com/adah1972/nvwa) - My small collection of C++ utilities
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
@@ -196,6 +198,7 @@
 
 ## HTML 
 
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -255,17 +258,16 @@
 
 - [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [sunface/too-many-lists](https://github.com/sunface/too-many-lists) - 中文书名&lt;&lt;手把手实现 Rust 链表&gt;&gt;，高质量手翻 Too Many Linked Lists， 是一本非常好的 Rust 实践学习教程
+- [studyrs/too-many-lists](https://github.com/studyrs/too-many-lists) - 中文书名&lt;&lt;手把手实现 Rust 链表&gt;&gt;，高质量手翻 Too Many Linked Lists， 是一本非常好的 Rust 实践学习教程
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [oscomp/proj5-fuxi-full-system-with-cpu-compiler-os](https://github.com/oscomp/proj5-fuxi-full-system-with-cpu-compiler-os) - 实现CPU+Lang+Compiler+OS
 - [oscomp/proj52-OS-Tutor](https://github.com/oscomp/proj52-OS-Tutor) - OpenEuler应用助手。
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
 - [oscomp/proj9-zcore](https://github.com/oscomp/proj9-zcore) - 基于Rust语言的OS Kernel -- zCore
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
-- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - 使用我们精心挑选的开源代码，让你的 Rust 项目 Fancy 起来!
+- [studyrs/fancy-rust](https://github.com/studyrs/fancy-rust) - 你所未见过的 Awesome Rust，拒绝过时，拒绝敷衍，拒绝低质量！
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [Young-Cody/CSC2021-NKU-TEDA](https://github.com/Young-Cody/CSC2021-NKU-TEDA) - 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081) - 
@@ -298,7 +300,7 @@
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [lazyparser/becoming-a-compiler-engineer-codes](https://github.com/lazyparser/becoming-a-compiler-engineer-codes) - 方舟编译入门技术课程的配套代码
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕计算机考研4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新部分复试内容，2023年王道天勤pdf上新，网盘下载）
+- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新部分复试内容，2023年王道天勤pdf上新，网盘下载）
 - [lazyparser/becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
 - [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2022"相关信息
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
@@ -324,6 +326,7 @@
 
 ## Python 
 
+- [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python
 - [Prodesire/github-to-dingtalk](https://github.com/Prodesire/github-to-dingtalk) - An implementation of webhook used to notify GitHub repository events to DingTalk.
@@ -362,7 +365,7 @@
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(BSON2 based)
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(RBSON based)
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -434,7 +437,7 @@
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your object storage for big data analytics.
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -604,6 +607,7 @@
 
 ## Verilog 
 
+- [Lyncien/RISC-V-32I](https://github.com/Lyncien/RISC-V-32I) - 体系结构课程实验：RISC-V 32I 流水线 CPU，实现37条指令，转发，冒险检测，Cache，分支预测器
 - [Trinkle23897/mips32-cpu](https://github.com/Trinkle23897/mips32-cpu) - 奋战一学期，造台计算机（编译出的bit文件在release中，可以直接食用）
 - [ultraembedded/riscv](https://github.com/ultraembedded/riscv) - RISC-V CPU Core (RV32IM)
 - [Evensgn/RISC-V-CPU](https://github.com/Evensgn/RISC-V-CPU) - RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.
