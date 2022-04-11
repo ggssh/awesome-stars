@@ -17,6 +17,7 @@
   - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
@@ -46,6 +47,7 @@
 
 ## Assembly 
 
+- [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 - [Gstalker/Kernel-Learning](https://github.com/Gstalker/Kernel-Learning) - 从0开始写一个操作系统——《操作系统真象还原》
 
 ## C 
@@ -88,6 +90,7 @@
 
 ## C++ 
 
+- [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [linuxdeploy/linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool. Featuring flexible plugin system.
 - [adah1972/nvwa](https://github.com/adah1972/nvwa) - My small collection of C++ utilities
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
@@ -209,6 +212,10 @@
 - [local-host-8080/demo-html-css](https://github.com/local-host-8080/demo-html-css) - 超好看的前端模板(学习用)
 - [HUST-OS/rvgj.qf.rs](https://github.com/HUST-OS/rvgj.qf.rs) - RISC-V在线开发工具
 
+## Handlebars 
+
+- [studyrs/rusty-book](https://github.com/studyrs/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
+
 ## Java 
 
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -219,6 +226,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
@@ -236,6 +244,7 @@
 
 ## Kotlin 
 
+- [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 - [kvakil/venus](https://github.com/kvakil/venus) - RISC-V instruction set simulator built for education
 
 ## LLVM 
@@ -257,6 +266,7 @@
 
 ## Others 
 
+- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) - 计算机的优秀课程
 - [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -267,7 +277,6 @@
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
 - [oscomp/proj9-zcore](https://github.com/oscomp/proj9-zcore) - 基于Rust语言的OS Kernel -- zCore
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
-- [studyrs/fancy-rust](https://github.com/studyrs/fancy-rust) - 你所未见过的 Awesome Rust，拒绝过时，拒绝敷衍，拒绝低质量！
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Young-Cody/CSC2021-NKU-TEDA](https://github.com/Young-Cody/CSC2021-NKU-TEDA) - 
@@ -328,6 +337,7 @@
 
 ## Python 
 
+- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python
@@ -439,7 +449,7 @@
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time insights.
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -534,7 +544,7 @@
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
