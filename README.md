@@ -92,6 +92,10 @@
 
 ## C++ 
 
+- [zhuez16/bazinga_compiler](https://github.com/zhuez16/bazinga_compiler) - 
+- [tinsir888/compiler-sysy](https://github.com/tinsir888/compiler-sysy) - NKU CS major compulsory course in 5th semester, taught by Prof. Wang Gang. Finish a compiler of language SysY(A subset of language C), by using auxiliary tools bison and yacc. It is widely regarded as
+- [ustb-owl/Lava](https://github.com/ustb-owl/Lava) - A compiler of C subset by USTB OWL Wheel Lab.
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
@@ -179,6 +183,7 @@
 
 ## CSS 
 
+- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag
 - [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center) - Deepin developer center, provide developer wiki and community forum.
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 
@@ -225,6 +230,7 @@
 
 ## Java 
 
+- [BUAA-SE-Compiling/miniSysY_example_compiler](https://github.com/BUAA-SE-Compiling/miniSysY_example_compiler) - 
 - [leungwensen/cbc-ubuntu-64bit](https://github.com/leungwensen/cbc-ubuntu-64bit) - Cb (C flat) compiler.  Cb is simplified C.
 - [showstarpro/sysy](https://github.com/showstarpro/sysy) - 
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -261,6 +267,7 @@
 
 ## LLVM 
 
+- [Komorebi660/SysYF-Compiler](https://github.com/Komorebi660/SysYF-Compiler) - 2021年中国科学技术大学编译原理(H)课程实验项目
 - [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南
 
 ## Makefile 
@@ -288,7 +295,7 @@
 - [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [sunface/too-many-lists](https://github.com/sunface/too-many-lists) - 中文书名&lt;&lt;手把手实现 Rust 链表&gt;&gt;，高质量手翻 Too Many Linked Lists， 是一本非常好的 Rust 实践学习教程
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
 - [oscomp/proj9-zcore](https://github.com/oscomp/proj9-zcore) - 基于Rust语言的OS Kernel -- zCore
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
@@ -383,6 +390,7 @@
 
 ## Rust 
 
+- [wyfcyx/rustsbi-qemu](https://github.com/wyfcyx/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
 - [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
@@ -461,13 +469,13 @@
 - [rcore-os/rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial) - Tutorial for rCore OS step by step (3rd edition)
 - [Pr47/Pr47](https://github.com/Pr47/Pr47) - The formal development repository for Pr47
 - [sajattack/bitbang-hal](https://github.com/sajattack/bitbang-hal) - Implements embedded-hal traits by bitbanging
-- [gordonbrander/subtext](https://github.com/gordonbrander/subtext) - Markup for note taking
+- [subconsciousnetwork/subtext](https://github.com/subconsciousnetwork/subtext) - Markup for note taking
 - [mbrubeck/robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [pleasewhy/SimpleAsyncTcp](https://github.com/pleasewhy/SimpleAsyncTcp) - A Simple asynchronous Tcp implemention
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
