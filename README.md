@@ -38,6 +38,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Verilog](#verilog)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -92,6 +93,9 @@
 
 ## C++ 
 
+- [TerenceNg03/RMMC](https://github.com/TerenceNg03/RMMC) - Course Project for 2022 ZJU Compiler Construction Principle and Practice
+- [JY-Liu-i/C-minus-compiler](https://github.com/JY-Liu-i/C-minus-compiler) - 同济大学编译原理课程设计类C编译器任务
+- [caohyang/Compiler-SysYF-CodeGen-Opt](https://github.com/caohyang/Compiler-SysYF-CodeGen-Opt) - 2021秋-编译原理与技术-代码优化
 - [zhuez16/bazinga_compiler](https://github.com/zhuez16/bazinga_compiler) - 
 - [tinsir888/compiler-sysy](https://github.com/tinsir888/compiler-sysy) - NKU CS major compulsory course in 5th semester, taught by Prof. Wang Gang. Finish a compiler of language SysY(A subset of language C), by using auxiliary tools bison and yacc. It is widely regarded as
 - [ustb-owl/Lava](https://github.com/ustb-owl/Lava) - A compiler of C subset by USTB OWL Wheel Lab.
@@ -177,6 +181,7 @@
 
 ## CMake 
 
+- [cpp-pm/hunter](https://github.com/cpp-pm/hunter) - CMake driven cross-platform package manager for C/C++.
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -241,6 +246,7 @@
 
 ## JavaScript 
 
+- [linuxdeepin/.github](https://github.com/linuxdeepin/.github) - The github tools
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [bilelmoussaoui/flatpak-github-actions](https://github.com/bilelmoussaoui/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume) - 饥人谷出品：一个会动的简历。欢迎 Fork ➡️
@@ -285,6 +291,9 @@
 
 ## Others 
 
+- [cyberaurora/jvm-rust-paperwork](https://github.com/cyberaurora/jvm-rust-paperwork) - 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -361,7 +370,7 @@
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python
+- [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 - [Prodesire/github-to-dingtalk](https://github.com/Prodesire/github-to-dingtalk) - An implementation of webhook used to notify GitHub repository events to DingTalk.
 - [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and containers, non-invasive minimal working setups
 - [UbuntuKylin/kylin-software-center](https://github.com/UbuntuKylin/kylin-software-center) - 
@@ -390,6 +399,10 @@
 
 ## Rust 
 
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
+- [MROS/jpeg_tutorial](https://github.com/MROS/jpeg_tutorial) - 跟我寫 JPEG 解碼器 (Write a JPEG decoder with me)
+- [oli-obk/rust-si](https://github.com/oli-obk/rust-si) - a rusty `scanf` (`scan!`) and inverse of `print!` (`read!`)
 - [wyfcyx/rustsbi-qemu](https://github.com/wyfcyx/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
 - [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
@@ -397,7 +410,7 @@
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
@@ -527,7 +540,6 @@
 - [douchuan/jvm](https://github.com/douchuan/jvm) - JVM in Rust, written as a learning project.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
-- [Berrysoft/cargo-ui](https://github.com/Berrysoft/cargo-ui) - GUI for Cargo
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
@@ -586,7 +598,7 @@
 - [rust-embedded/riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
-- [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem
+- [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) implementation library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem
 - [zhangyuang/leetcode](https://github.com/zhangyuang/leetcode) - solve questions in leetcode by Rust
 - [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC-V in Rust from scratch!
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -602,6 +614,7 @@
 
 ## Shell 
 
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -662,8 +675,13 @@
 - [Evensgn/RISC-V-CPU](https://github.com/Evensgn/RISC-V-CPU) - RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.
 - [zhanghai/archexp](https://github.com/zhanghai/archexp) - 浙江大学计算机体系结构课程实验
 
+## Visual Basic .NET 
+
+- [Wagnard/display-drivers-uninstaller](https://github.com/Wagnard/display-drivers-uninstaller) - Display Driver Uninstaller (DDU) a driver removal utility / cleaner utility
+
 ## Vue 
 
+- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial) - 用 django-rest-framework 和 vue 搭建前后端分离的个人博客
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [YAVGroup/Verilog-OJ](https://github.com/YAVGroup/Verilog-OJ) - Online judge server for Verilog | verilogoj.ustc.edu.cn
