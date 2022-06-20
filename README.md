@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [C](#c)
 - [C++](#c++)
@@ -28,6 +27,7 @@
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -42,10 +42,6 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## ANTLR 
-
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
-
 ## Assembly 
 
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
@@ -54,7 +50,7 @@
 ## C 
 
 - [kagurazakakotori/ubmp-cn-code](https://github.com/kagurazakakotori/ubmp-cn-code) - 《从零开始的UEFI裸机编程》中文版示例代码
-- [arcsysu/SYsU-lang](https://github.com/arcsysu/SYsU-lang) - A mini, simple and modular compiler for SYsU/SysY(tiny C). Based on flex, bison and LLVM.
+- [arcsysu/SYsU-lang](https://github.com/arcsysu/SYsU-lang) - A mini, simple and modular compiler for SYsU/SysY(tiny C). Based on Clang/LLVM.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -197,6 +193,7 @@
 
 ## Dart 
 
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -214,7 +211,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [karminski/pineapple](https://github.com/karminski/pineapple) - pineapple lang 是一个简单的编程语言 demo. 它包含了个手写的递归下降解析器和一个简单的解释器. 虽然该语言甚至不是图灵完备的. 但 pineapple 的主要目的是让编译原理初学者有一个预热, 简单了解一个编程语言是怎么构建的.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
+- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 
 ## HTML 
@@ -399,12 +396,17 @@
 - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [pandolia/tinyc](https://github.com/pandolia/tinyc) - https://pandolia.net/tinyc/
 
+## Rich Text Format 
+
+- [hibobmaster/HP-15-dc1010nr-hackintosh](https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh) - HP-15-dc1010nr-hackintosh-OpenCore-EFI | 暗影精灵5
+
 ## Ruby 
 
 - [brickpop/flutter-rust-ffi](https://github.com/brickpop/flutter-rust-ffi) - Starter project for Flutter plugins willing to access native and synchronous rust code using FFI
 
 ## Rust 
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
 - [EnabledFish/Nyah](https://github.com/EnabledFish/Nyah) - 🐱 An object-oriented programming language, meow~
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
@@ -421,7 +423,7 @@
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
@@ -625,6 +627,7 @@
 
 ## Shell 
 
+- [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -660,6 +663,7 @@
 
 ## TypeScript 
 
+- [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的基于 Web 的 视觉小说引擎 | A brand new Visual Novel engine based on Web.
