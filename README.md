@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [C](#c)
 - [C++](#c++)
@@ -42,6 +43,10 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
+## ANTLR 
+
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
 ## Assembly 
 
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
@@ -49,6 +54,8 @@
 
 ## C 
 
+- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
+- [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
 - [kagurazakakotori/ubmp-cn-code](https://github.com/kagurazakakotori/ubmp-cn-code) - 《从零开始的UEFI裸机编程》中文版示例代码
 - [arcsysu/SYsU-lang](https://github.com/arcsysu/SYsU-lang) - A mini, simple and modular compiler for SYsU/SysY(tiny C). Based on Clang/LLVM.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
@@ -89,6 +96,7 @@
 
 ## C++ 
 
+- [jeaye/stdman](https://github.com/jeaye/stdman) - Formatted C++20 stdlib man pages (cppreference)
 - [TerenceNg03/RMMC](https://github.com/TerenceNg03/RMMC) - Course Project for 2022 ZJU Compiler Construction Principle and Practice
 - [JY-Liu-i/C-minus-compiler](https://github.com/JY-Liu-i/C-minus-compiler) - 同济大学编译原理课程设计类C编译器任务
 - [caohyang/Compiler-SysYF-CodeGen-Opt](https://github.com/caohyang/Compiler-SysYF-CodeGen-Opt) - 2021秋-编译原理与技术-代码优化
@@ -141,6 +149,7 @@
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 - [Tiramisu-Compiler/tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - A polyhedral compiler for expressing fast and portable data parallel algorithms
 - [Salenmicro/wenyan-lang-llvm](https://github.com/Salenmicro/wenyan-lang-llvm) - 文言文语言编译器，前端采用Antlr做lexer和parser，利用AST生成LLVM IR
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
 - [lrq1999/SimpleCppBison](https://github.com/lrq1999/SimpleCppBison) - BJUT Principle of Compiler Experiment Example
@@ -193,7 +202,6 @@
 
 ## Dart 
 
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -216,6 +224,7 @@
 
 ## HTML 
 
+- [loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation) - The documentation for LoongArch.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
@@ -246,7 +255,7 @@
 
 - [linuxdeepin/.github](https://github.com/linuxdeepin/.github) - The github tools
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [bilelmoussaoui/flatpak-github-actions](https://github.com/bilelmoussaoui/flatpak-github-actions) - Build your Flatpak application using Github Actions
+- [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume) - 饥人谷出品：一个会动的简历。欢迎 Fork ➡️
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
@@ -289,6 +298,7 @@
 
 ## Others 
 
+- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十年来做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, 
@@ -367,6 +377,7 @@
 
 ## Python 
 
+- [zu1k/my_followers](https://github.com/zu1k/my_followers) - love you all
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
@@ -388,7 +399,6 @@
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [adeshpande3/Facebook-Messenger-Bot](https://github.com/adeshpande3/Facebook-Messenger-Bot) - Facebook chatbot that I trained to talk like me using Seq2Seq
 - [empirical-soft/asdl4cpp](https://github.com/empirical-soft/asdl4cpp) - Abstract Syntax Definition Language (ASDL) ported to C++
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [oriontransfer/PL0-Language-Tools](https://github.com/oriontransfer/PL0-Language-Tools) - An implementation of PL/0 including a tree-based interpreter and virtual machine.
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [HIT-Alibaba/HIT_Compiler_Experiment](https://github.com/HIT-Alibaba/HIT_Compiler_Experiment) - 哈工大编译原理实验
@@ -406,6 +416,7 @@
 
 ## Rust 
 
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
 - [EnabledFish/Nyah](https://github.com/EnabledFish/Nyah) - 🐱 An object-oriented programming language, meow~
@@ -627,6 +638,8 @@
 
 ## Shell 
 
+- [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
+- [sunhaiyong1978/CLFS-for-LoongArch](https://github.com/sunhaiyong1978/CLFS-for-LoongArch) - 如何交叉编译一个基于LoongArch架构的LFS（Linux From Scratch）系统。
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
@@ -663,6 +676,7 @@
 
 ## TypeScript 
 
+- [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for MacOS, Linux and Windows
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
