@@ -54,6 +54,7 @@
 
 ## C 
 
+- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
 - [kagurazakakotori/ubmp-cn-code](https://github.com/kagurazakakotori/ubmp-cn-code) - 《从零开始的UEFI裸机编程》中文版示例代码
@@ -96,6 +97,7 @@
 
 ## C++ 
 
+- [LeadroyaL/llvm-pass-tutorial](https://github.com/LeadroyaL/llvm-pass-tutorial) - A step-by-step tutorial for building an LLVM  sample pass
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [jeaye/stdman](https://github.com/jeaye/stdman) - Formatted C++20 stdlib man pages (cppreference)
 - [TerenceNg03/RMMC](https://github.com/TerenceNg03/RMMC) - Course Project for 2022 ZJU Compiler Construction Principle and Practice
@@ -150,6 +152,7 @@
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 - [Tiramisu-Compiler/tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - A polyhedral compiler for expressing fast and portable data parallel algorithms
 - [Salenmicro/wenyan-lang-llvm](https://github.com/Salenmicro/wenyan-lang-llvm) - 文言文语言编译器，前端采用Antlr做lexer和parser，利用AST生成LLVM IR
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
 - [lrq1999/SimpleCppBison](https://github.com/lrq1999/SimpleCppBison) - BJUT Principle of Compiler Experiment Example
@@ -223,6 +226,7 @@
 
 ## HTML 
 
+- [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
 - [loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation) - The documentation for LoongArch.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -392,7 +396,7 @@
 - [kholia/mips-hacking](https://github.com/kholia/mips-hacking) - Notes on QEMU and Debian MIPS (big-endian)
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
-- [WhaleFell/SMSBoom](https://github.com/WhaleFell/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
@@ -400,7 +404,6 @@
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [adeshpande3/Facebook-Messenger-Bot](https://github.com/adeshpande3/Facebook-Messenger-Bot) - Facebook chatbot that I trained to talk like me using Seq2Seq
 - [empirical-soft/asdl4cpp](https://github.com/empirical-soft/asdl4cpp) - Abstract Syntax Definition Language (ASDL) ported to C++
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [oriontransfer/PL0-Language-Tools](https://github.com/oriontransfer/PL0-Language-Tools) - An implementation of PL/0 including a tree-based interpreter and virtual machine.
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [HIT-Alibaba/HIT_Compiler_Experiment](https://github.com/HIT-Alibaba/HIT_Compiler_Experiment) - 哈工大编译原理实验
@@ -418,6 +421,8 @@
 
 ## Rust 
 
+- [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
+- [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
 - [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky) - A new, portable, regular expression language
@@ -643,6 +648,7 @@
 
 ## Shell 
 
+- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
 - [sunhaiyong1978/CLFS-for-LoongArch](https://github.com/sunhaiyong1978/CLFS-for-LoongArch) - 如何交叉编译一个基于LoongArch架构的LFS（Linux From Scratch）系统。
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
@@ -672,6 +678,7 @@
 
 ## TeX 
 
+- [onsimplet/NEUQPaperLaTeXTemplateUpdate](https://github.com/onsimplet/NEUQPaperLaTeXTemplateUpdate) - 东北大学秦皇岛分校2020年本科毕业论文 LaTex 模板更新修改
 - [schoeberl/chisel-book](https://github.com/schoeberl/chisel-book) - Digital Design with Chisel
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
