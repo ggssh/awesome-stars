@@ -97,6 +97,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [zdszero/ustc-cs-graduate](https://github.com/zdszero/ustc-cs-graduate) - 中国科学技术大学 计算机 考研复试详解
 - [LeadroyaL/llvm-pass-tutorial](https://github.com/LeadroyaL/llvm-pass-tutorial) - A step-by-step tutorial for building an LLVM  sample pass
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -401,7 +402,7 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
-- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.5 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
+- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [compiler-explorer/compiler-workflows](https://github.com/compiler-explorer/compiler-workflows) - Workflows to build daily and ad hoc compilers for Compiler Explorer
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [adeshpande3/Facebook-Messenger-Bot](https://github.com/adeshpande3/Facebook-Messenger-Bot) - Facebook chatbot that I trained to talk like me using Seq2Seq
@@ -686,7 +687,7 @@
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - OS Lectures 2022 Spring in Dept. CS, Tsinghua  Univ.
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - OS Lectures 2022 Spring https://learningos.github.io/os-lectures/
 
 ## TypeScript 
 
