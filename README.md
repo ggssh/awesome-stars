@@ -253,7 +253,7 @@
 - [No-SF-Work/ayame](https://github.com/No-SF-Work/ayame) - A compiler that translates SysY (a subset of C language) into ARMv7a, implemented in Java15.
 - [KunMinX/Smooth-Navigation](https://github.com/KunMinX/Smooth-Navigation) - 提供流畅的 Jetpack Navigation 转场体验。并解决 GitHub 上 Navigation Add Hide 修改版普遍存在的致命缺陷。
 - [lygttpod/AndroidCustomView](https://github.com/lygttpod/AndroidCustomView) - 带你在实战中学习自定义view，通过几个完整的例子带你走进自定义View的美妙世界
-- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
+- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
 
 ## JavaScript 
 
@@ -261,6 +261,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [linuxdeepin/.github](https://github.com/linuxdeepin/.github) - The github tools
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume) - 饥人谷出品：一个会动的简历。欢迎 Fork ➡️
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -444,7 +445,6 @@
 - [oli-obk/rust-si](https://github.com/oli-obk/rust-si) - a rusty `scanf` (`scan!`) and inverse of `print!` (`read!`)
 - [wyfcyx/rustsbi-qemu](https://github.com/wyfcyx/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
 - [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
@@ -457,7 +457,7 @@
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust High Performance compile-time ORM(RBSON based)
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - The Rust SQL Toolkit and ORM Library. An async, pure Rust SQL crate featuring compile-time Dynamic SQL
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -488,7 +488,7 @@
 - [OliverBrotchie/ob](https://github.com/OliverBrotchie/ob) - A Blog & RSS system written in Rust based on Luke Smith's LB.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Build Trust with a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication.
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management & authorization policy enforcement — at scale.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
@@ -546,7 +546,7 @@
 - [decaf-lang/decaf-rs](https://github.com/decaf-lang/decaf-rs) - The Decaf compiler, written in Rust
 - [rust-vmm/vmm-reference](https://github.com/rust-vmm/vmm-reference) - A VMM implementation based of rust-vmm components
 - [rust-vmm/vhost](https://github.com/rust-vmm/vhost) - 
-- [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/chromiumos/platform/crosvm/
+- [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
