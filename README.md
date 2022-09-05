@@ -61,7 +61,6 @@
 - [arcsysu/SYsU-lang](https://github.com/arcsysu/SYsU-lang) - A mini, simple and modular compiler for SYsU/SysY(tiny C). Based on Clang/LLVM.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [eugene-tarassov/vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v) - Xilinx Vivado block designs for FPGA RISC-V SoC running Debian Linux distro
 - [LZU-OSLab/opensbi](https://github.com/LZU-OSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [wyfcyx/osnotes](https://github.com/wyfcyx/osnotes) - Some notes or translations about operating system or programming language.
@@ -97,6 +96,8 @@
 
 ## C++ 
 
+- [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
+- [tbfleming/cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [zdszero/ustc-cs-graduate](https://github.com/zdszero/ustc-cs-graduate) - 中国科学技术大学 计算机 考研复试详解
 - [LeadroyaL/llvm-pass-tutorial](https://github.com/LeadroyaL/llvm-pass-tutorial) - A step-by-step tutorial for building an LLVM  sample pass
@@ -121,12 +122,12 @@
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [adishavit/argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
 - [daniele77/cli](https://github.com/daniele77/cli) - A library for interactive command line interfaces in modern C++
-- [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
 - [wwqqqqq/CompilePrinciple2017](https://github.com/wwqqqqq/CompilePrinciple2017) - Experiments in 'Compile Principle' course in 2017 fall.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Jonathan2251/lbd](https://github.com/Jonathan2251/lbd) - 
 - [XiaoYaoYouUSTC/Cminusf-Compiler](https://github.com/XiaoYaoYouUSTC/Cminusf-Compiler) - 中国科学技术大学编译原理课程实验项目
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [wildoranges/MahoShojo](https://github.com/wildoranges/MahoShojo) - 2021年华为毕昇杯中国科学技术大学Maho_Shojo队二等奖作品
@@ -154,7 +155,6 @@
 - [llvm/circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 - [Tiramisu-Compiler/tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - A polyhedral compiler for expressing fast and portable data parallel algorithms
 - [Salenmicro/wenyan-lang-llvm](https://github.com/Salenmicro/wenyan-lang-llvm) - 文言文语言编译器，前端采用Antlr做lexer和parser，利用AST生成LLVM IR
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
 - [lrq1999/SimpleCppBison](https://github.com/lrq1999/SimpleCppBison) - BJUT Principle of Compiler Experiment Example
@@ -410,6 +410,7 @@
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [adeshpande3/Facebook-Messenger-Bot](https://github.com/adeshpande3/Facebook-Messenger-Bot) - Facebook chatbot that I trained to talk like me using Seq2Seq
 - [empirical-soft/asdl4cpp](https://github.com/empirical-soft/asdl4cpp) - Abstract Syntax Definition Language (ASDL) ported to C++
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [oriontransfer/PL0-Language-Tools](https://github.com/oriontransfer/PL0-Language-Tools) - An implementation of PL/0 including a tree-based interpreter and virtual machine.
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [HIT-Alibaba/HIT_Compiler_Experiment](https://github.com/HIT-Alibaba/HIT_Compiler_Experiment) - 哈工大编译原理实验
@@ -454,8 +455,9 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
@@ -600,7 +602,7 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [facebookexperimental/MIRAI](https://github.com/facebookexperimental/MIRAI) - Rust mid-level IR Abstract Interpreter
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
