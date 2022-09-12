@@ -49,11 +49,14 @@
 
 ## Assembly 
 
+- [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
+- [mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide) - RISC-V Guide
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 - [Gstalker/Kernel-Learning](https://github.com/Gstalker/Kernel-Learning) - 从0开始写一个操作系统——《操作系统真象还原》
 
 ## C 
 
+- [woai3c/MIT6.828](https://github.com/woai3c/MIT6.828) - 实现一个操作系统内核
 - [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
@@ -306,6 +309,7 @@
 
 ## Others 
 
+- [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -428,6 +432,9 @@
 
 ## Rust 
 
+- [LemonHX/ioring-rs](https://github.com/LemonHX/ioring-rs) - ioring wrapper for windows-rs
+- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
+- [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 - [luojia65/tiaoshi-dashi-sbi](https://github.com/luojia65/tiaoshi-dashi-sbi) - 调试大师：你见过最强的内核调试器
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
@@ -648,6 +655,7 @@
 
 ## Scala 
 
+- [OSCPU/NutShell](https://github.com/OSCPU/NutShell) - RISC-V SoC designed by students in UCAS
 - [sifive/chisel-circt](https://github.com/sifive/chisel-circt) - Library to compile Chisel circuits using LLVM/MLIR (CIRCT)
 - [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
 - [ucb-bar/chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial) - chisel tutorial exercises and answers
