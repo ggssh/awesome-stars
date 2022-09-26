@@ -8,6 +8,7 @@
 - [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
@@ -56,6 +57,7 @@
 
 ## C 
 
+- [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote) - 📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 - [hurley25/TinyGDB](https://github.com/hurley25/TinyGDB) - 自己动手写调试器
 - [woai3c/MIT6.828](https://github.com/woai3c/MIT6.828) - 实现一个操作系统内核
 - [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
@@ -98,8 +100,13 @@
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 
+## C# # 
+
+- [thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier) - 2022 年春季学期清华大学《软件分析与验证》课程实验平台
+
 ## C++ 
 
+- [MaxXSoft/GeeOS](https://github.com/MaxXSoft/GeeOS) - The Gee (寂) Operating System, written in YuLang.
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 - [thepowersgang/mrustc](https://github.com/thepowersgang/mrustc) - Alternative rust compiler (re-implementation)
@@ -235,6 +242,7 @@
 
 ## HTML 
 
+- [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
 - [loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation) - The documentation for LoongArch.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -316,7 +324,6 @@
 - [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
@@ -371,7 +378,7 @@
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [lazyparser/becoming-a-compiler-engineer-codes](https://github.com/lazyparser/becoming-a-compiler-engineer-codes) - 方舟编译入门技术课程的配套代码
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新部分复试内容，2023年王道天勤pdf上新，网盘下载）
+- [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
 - [lazyparser/becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
 - [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2022"相关信息
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
@@ -397,6 +404,8 @@
 
 ## Python 
 
+- [JerrybroDu/cats_vs_dogs](https://github.com/JerrybroDu/cats_vs_dogs) - 猫狗识别分类(深度学习入门案例)，使用了Tensorflow框架 和 CNN神经网络实现。附有超详细的代码注释，适合新手直接上手Run！
+- [0809zheng/dogs-VS-cats-pytorch](https://github.com/0809zheng/dogs-VS-cats-pytorch) - Pytorch实现Kaggle竞赛“猫狗分类”，准确率超过99%。
 - [zu1k/my_followers](https://github.com/zu1k/my_followers) - love you all
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -404,6 +413,7 @@
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Prodesire/github-to-dingtalk](https://github.com/Prodesire/github-to-dingtalk) - An implementation of webhook used to notify GitHub repository events to DingTalk.
 - [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and containers, non-invasive minimal working setups
 - [UbuntuKylin/kylin-software-center](https://github.com/UbuntuKylin/kylin-software-center) - 
@@ -469,7 +479,6 @@
 - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - The Rust SQL Toolkit and Compile time ORM Library. An async, pure Rust SQL crate featuring compile-time Dynamic SQL
