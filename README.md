@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Common Lisp](#common-lisp)
 - [Coq](#coq)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -57,6 +58,8 @@
 
 ## C 
 
+- [sunshaoce/rvcc](https://github.com/sunshaoce/rvcc) - 本课程基于Rui的chibicc，@sunshaoce和@ksco将其由原来的X86架构改写为RISC-V 64架构，同时加入了大量的中文注释，并且配有316节对应于每一个commit的课程，帮助读者可以层层推进、逐步深入的学习编译器的构造。
+- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - 
 - [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote) - 📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 - [hurley25/TinyGDB](https://github.com/hurley25/TinyGDB) - 自己动手写调试器
@@ -107,6 +110,7 @@
 
 ## C++ 
 
+- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [MaxXSoft/GeeOS](https://github.com/MaxXSoft/GeeOS) - The Gee (寂) Operating System, written in YuLang.
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
@@ -215,6 +219,10 @@
 
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 
+## Common Lisp 
+
+- [woodrush/lambda-8cc](https://github.com/woodrush/lambda-8cc) - x86 C compiler written in untyped lambda calculus
+
 ## Coq 
 
 - [plctlab/sail-riscv-dropped](https://github.com/plctlab/sail-riscv-dropped) - 
@@ -243,10 +251,12 @@
 
 ## HTML 
 
+- [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
 - [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
 - [loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation) - The documentation for LoongArch.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
@@ -323,6 +333,7 @@
 
 ## Others 
 
+- [wyfcyx/CS-Awesome-Courses](https://github.com/wyfcyx/CS-Awesome-Courses) - 计算机的优秀课程
 - [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books) - :books: 恋爱指南
 - [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
@@ -388,7 +399,7 @@
 - [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：程序员编程指南
 - [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 - [shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
-- [xfhy/Android-Notes](https://github.com/xfhy/Android-Notes) - ✍🏻 关注基础知识，打造优质Android博客，公众号[xfhy]的作者
+- [xfhy/Android-Notes](https://github.com/xfhy/Android-Notes) - ✍🏻 关注基础知识，打造优质Android博客
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [mzlogin/ding-tunnel](https://github.com/mzlogin/ding-tunnel) - 钉钉内网穿透
 - [YJL-NLP/IT_book](https://github.com/YJL-NLP/IT_book) - 本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）
@@ -407,6 +418,7 @@
 
 ## Python 
 
+- [migege/dnspod](https://github.com/migege/dnspod) - dnspod.py 是基于 DNSPod 服务的动态 DNS 脚本，用于检测 IP 变化并更新至 DNSPod，支持多域名解析。支持 Linux 设备，包括树莓派（Raspberry Pi）。
 - [JerrybroDu/cats_vs_dogs](https://github.com/JerrybroDu/cats_vs_dogs) - 猫狗识别分类(深度学习入门案例)，使用了Tensorflow框架 和 CNN神经网络实现。附有超详细的代码注释，适合新手直接上手Run！
 - [0809zheng/dogs-VS-cats-pytorch](https://github.com/0809zheng/dogs-VS-cats-pytorch) - Pytorch实现Kaggle竞赛“猫狗分类”，准确率超过99%。
 - [zu1k/my_followers](https://github.com/zu1k/my_followers) - love you all
@@ -449,6 +461,9 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
+- [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -675,6 +690,8 @@
 
 ## Scala 
 
+- [NSCSCC-2022-TJU/ChiselMIPS](https://github.com/NSCSCC-2022-TJU/ChiselMIPS) - 第六届龙芯杯混元形意太极门战队作品
+- [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
 - [OSCPU/NutShell](https://github.com/OSCPU/NutShell) - RISC-V SoC designed by students in UCAS
 - [sifive/chisel-circt](https://github.com/sifive/chisel-circt) - Library to compile Chisel circuits using LLVM/MLIR (CIRCT)
 - [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
@@ -690,7 +707,6 @@
 - [sunhaiyong1978/CLFS-for-LoongArch](https://github.com/sunhaiyong1978/CLFS-for-LoongArch) - 如何交叉编译一个基于LoongArch架构的LFS（Linux From Scratch）系统。
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -739,7 +755,7 @@
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
