@@ -286,6 +286,7 @@
 
 ## JavaScript 
 
+- [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [linuxdeepin/.github](https://github.com/linuxdeepin/.github) - The github tools
@@ -298,7 +299,6 @@
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (已完结)
 - [Boscop/web-view](https://github.com/Boscop/web-view) - Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
@@ -339,6 +339,7 @@
 
 ## Others 
 
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [riscvarchive/riscv-cores-list](https://github.com/riscvarchive/riscv-cores-list) - RISC-V Cores, SoC platforms and SoCs
 - [QQxiaoming/quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) - This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
@@ -470,6 +471,8 @@
 
 ## Rust 
 
+- [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 - [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
@@ -510,7 +513,7 @@
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM and SQL Toolkit. async, pure Rust compile-time Dynamic SQL
@@ -692,7 +695,7 @@
 - [rust-embedded/riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [rustsbi/rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
-- [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) implementation library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem
+- [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see https://github.com/rustsbi/standalone.
 - [zhangyuang/leetcode](https://github.com/zhangyuang/leetcode) - solve questions in leetcode by Rust
 - [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC-V in Rust from scratch!
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -711,6 +714,7 @@
 
 ## Shell 
 
+- [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) - 🔎 互联网内推信息（社招、校招、实习）
 - [OSCPU/ysyx-workbench](https://github.com/OSCPU/ysyx-workbench) - 
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
@@ -769,6 +773,7 @@
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
 - [iTgo-lyq/Senki](https://github.com/iTgo-lyq/Senki) - 算法与数据结构可视化演练平台
