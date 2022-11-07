@@ -54,7 +54,7 @@
 ## Assembly 
 
 - [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
-- [mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide) - RISC-V Guide
+- [mikeroyal/RISC-V-Guide](https://github.com/mikeroyal/RISC-V-Guide) - RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 - [Gstalker/Kernel-Learning](https://github.com/Gstalker/Kernel-Learning) - 从0开始写一个操作系统——《操作系统真象还原》
 
@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [iiicp/lcc](https://github.com/iiicp/lcc) - llvm-based c compiler
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [MaxXSoft/GeeOS](https://github.com/MaxXSoft/GeeOS) - The Gee (寂) Operating System, written in YuLang.
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -287,6 +288,7 @@
 
 ## JavaScript 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -341,6 +343,7 @@
 
 ## Others 
 
+- [brupst/awesome-bupt-scs](https://github.com/brupst/awesome-bupt-scs) - 北京邮电大学计算机学院本科编程作业索引
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 我们龙了吗？一站式跟踪 LoongArch 的上游生态建设。 Are we Loong yet? Follow all LoongArch upstream efforts in one site.
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [riscvarchive/riscv-cores-list](https://github.com/riscvarchive/riscv-cores-list) - RISC-V Cores, SoC platforms and SoCs
@@ -348,7 +351,6 @@
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
 - [wyfcyx/CS-Awesome-Courses](https://github.com/wyfcyx/CS-Awesome-Courses) - 计算机的优秀课程
 - [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books) - :books: 恋爱指南
-- [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -478,9 +480,9 @@
 
 ## Rust 
 
+- [YdrMaster/fast-trap](https://github.com/YdrMaster/fast-trap) - 快速陷入处理
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 - [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
@@ -506,7 +508,7 @@
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
 - [MROS/jpeg_tutorial](https://github.com/MROS/jpeg_tutorial) - 跟我寫 JPEG 解碼器 (Write a JPEG decoder with me)
 - [oli-obk/rust-si](https://github.com/oli-obk/rust-si) - a rusty `scanf` (`scan!`) and inverse of `print!` (`read!`)
@@ -756,6 +758,7 @@
 
 - [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) - 上海交通大学 XeLaTeX 学位论文及课程论文模板 | Shanghai Jiao Tong University XeLaTeX Thesis Template
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历
+- [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [onsimplet/NEUQPaperLaTeXTemplateUpdate](https://github.com/onsimplet/NEUQPaperLaTeXTemplateUpdate) - 东北大学秦皇岛分校2020年本科毕业论文 LaTex 模板更新修改
 - [schoeberl/chisel-book](https://github.com/schoeberl/chisel-book) - Digital Design with Chisel
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
@@ -783,7 +786,7 @@
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [iTgo-lyq/Senki](https://github.com/iTgo-lyq/Senki) - 算法与数据结构可视化演练平台
 
 ## V 
