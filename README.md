@@ -289,7 +289,6 @@
 
 ## JavaScript 
 
-- [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Your one-stop portal for following LoongArch upstream work.
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -485,7 +484,7 @@
 - [YdrMaster/fast-trap](https://github.com/YdrMaster/fast-trap) - 快速陷入处理
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 A simple way to make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [rustsbi/sbi-spec](https://github.com/rustsbi/sbi-spec) - Definitions and constants in RISC-V Supervisor Binary Interface (RISC-V SBI)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
@@ -729,6 +728,7 @@
 
 ## Shell 
 
+- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) - 🔎 互联网内推信息（社招、校招、实习）
 - [OSCPU/ysyx-workbench](https://github.com/OSCPU/ysyx-workbench) - 
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
@@ -742,7 +742,7 @@
 - [scaleway/image-tools](https://github.com/scaleway/image-tools) - :nut_and_bolt: Scripts used to create Images on Scaleway - https://github.com/scaleway-community
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial) - BUAASE2019级的编译实验的实验指导与实验安排
@@ -775,6 +775,7 @@
 ## TypeScript 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+- [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Your one-stop portal for following LoongArch upstream work.
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode
 - [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for MacOS, Linux and Windows
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
