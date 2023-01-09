@@ -30,6 +30,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
@@ -114,6 +115,9 @@
 
 ## C++ 
 
+- [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
+- [D8100-9000-TWRP-Device-Tree/device_xiaomi_rubens-TWRP](https://github.com/D8100-9000-TWRP-Device-Tree/device_xiaomi_rubens-TWRP) - TWRP device tree for Redmi K50 (rubens)
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [OpenXiangShan/difftest](https://github.com/OpenXiangShan/difftest) - Co-simulation framework for Xiangshan
 - [iiicp/clang_llvm_application](https://github.com/iiicp/clang_llvm_application) - use clang llvm create source to source compiler
 - [forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) - A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》
@@ -218,6 +222,7 @@
 
 ## CMake 
 
+- [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN) - CMake 教程 Modern-CMake 的简体中文翻译，中文版 Gitbook ：https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/ Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cm
 - [cpp-pm/hunter](https://github.com/cpp-pm/hunter) - CMake driven cross-platform package manager for C/C++.
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
@@ -336,6 +341,7 @@
 
 ## Markdown 
 
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## OCaml 
@@ -431,6 +437,10 @@
 - [bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL) - 清华大学计算机学科推荐学术会议和期刊列表
 - [USTC-Hackergame/hackergame2022-writeups](https://github.com/USTC-Hackergame/hackergame2022-writeups) - 中国科学技术大学第九届信息安全大赛的官方与非官方题解
 
+## Pascal 
+
+- [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
+
 ## PowerShell 
 
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -483,6 +493,14 @@
 
 ## Rust 
 
+- [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+- [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team
+- [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
+- [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [maekawatoshiki/long](https://github.com/maekawatoshiki/long) - C++ Compiler
+- [cargo-youth/Rewrite-AliOS-Things-with-Rust](https://github.com/cargo-youth/Rewrite-AliOS-Things-with-Rust) - 基于rust重写的alios内核
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [1148118271/ssh-rs](https://github.com/1148118271/ssh-rs) - Rust implementation of ssh2.0 client 👻 rust实现的ssh2.0客户端
@@ -494,7 +512,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
