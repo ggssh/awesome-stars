@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [D8100-9000-TWRP-Device-Tree/device_xiaomi_rubens-TWRP](https://github.com/D8100-9000-TWRP-Device-Tree/device_xiaomi_rubens-TWRP) - TWRP device tree for Redmi K50 (rubens)
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -264,9 +265,11 @@
 
 ## HTML 
 
+- [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
 - [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation) - The documentation for LoongArch.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
@@ -286,6 +289,7 @@
 
 ## Java 
 
+- [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源建站工具。
 - [BUAA-SE-Compiling/miniSysY_example_compiler](https://github.com/BUAA-SE-Compiling/miniSysY_example_compiler) - 
 - [leungwensen/cbc-ubuntu-64bit](https://github.com/leungwensen/cbc-ubuntu-64bit) - Cb (C flat) compiler.  Cb is simplified C.
 - [showstarpro/sysy](https://github.com/showstarpro/sysy) - 
@@ -298,7 +302,6 @@
 ## JavaScript 
 
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [linuxdeepin/.github](https://github.com/linuxdeepin/.github) - The github tools
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
@@ -351,6 +354,7 @@
 
 ## Others 
 
+- [anonymousGiga/Collection-of-rust-interview-questions](https://github.com/anonymousGiga/Collection-of-rust-interview-questions) - Rust面试题收集
 - [oscomp/proj93-la-tsinghuaOS](https://github.com/oscomp/proj93-la-tsinghuaOS) - 
 - [brupst/awesome-bupt-scs](https://github.com/brupst/awesome-bupt-scs) - 北京邮电大学计算机学院本科编程作业索引
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -493,6 +497,13 @@
 
 ## Rust 
 
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
+- [pku-minic/kira-rs](https://github.com/pku-minic/kira-rs) - The example SysY compiler Kira for PKU compiler course, written in Rust.
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+- [hyperledger/solang](https://github.com/hyperledger/solang) - Solidity Compiler for Solana and Substrate
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team
@@ -740,6 +751,7 @@
 
 ## Scala 
 
+- [OpenXiangShan/HuanCun](https://github.com/OpenXiangShan/HuanCun) - Open-source high-performance non-blocking cache
 - [NSCSCC-2022-TJU/ChiselMIPS](https://github.com/NSCSCC-2022-TJU/ChiselMIPS) - 第六届龙芯杯混元形意太极门战队作品
 - [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
 - [OSCPU/NutShell](https://github.com/OSCPU/NutShell) - RISC-V SoC designed by students in UCAS
@@ -780,6 +792,7 @@
 
 ## SystemVerilog 
 
+- [WangXuan95/USTC-RVSoC](https://github.com/WangXuan95/USTC-RVSoC) - An FPGA-based RISC-V CPU+SoC with a simple and extensible peripheral bus. 基于FPGA的RISC-V CPU+SoC，包含一个简单且可扩展的外设总线。
 - [pulp-platform/snitch](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system!
 
 ## TeX 
