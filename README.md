@@ -117,12 +117,12 @@
 
 ## C++ 
 
+- [agraef/pure-lang](https://github.com/agraef/pure-lang) - Pure programming language
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [D8100-9000-TWRP-Device-Tree/device_xiaomi_rubens-TWRP](https://github.com/D8100-9000-TWRP-Device-Tree/device_xiaomi_rubens-TWRP) - TWRP device tree for Redmi K50 (rubens)
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [OpenXiangShan/difftest](https://github.com/OpenXiangShan/difftest) - Co-simulation framework for Xiangshan
-- [iiicp/clang_llvm_application](https://github.com/iiicp/clang_llvm_application) - use clang llvm create source to source compiler
 - [forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) - A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》
 - [iiicp/lcc](https://github.com/iiicp/lcc) - llvm-based c compiler
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
@@ -217,7 +217,7 @@
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [DaviesGit/SysY_compiler](https://github.com/DaviesGit/SysY_compiler) - 该编译器主要用来将SysY语言编译为arm汇编指令，并且对编译生成的代码进行优化。SysY 语言是 C 语言的一个子集。每个 SysY程序的源码存储在一个扩展名为 sy 的文件中。该文件中有且仅有一个名为 main的主函数定义,还可以包含若干全局变量声明、常量声明和其他函数定义。SysY语言支持 int 类型和元素为 int 类型且按行优先存储的多维数组类型,其中 int 型整数为 32 位有符号
-- [aixiangfei/jack-compiler](https://github.com/aixiangfei/jack-compiler) - jack语言编译器
+- [shellphy/jack-compiler](https://github.com/shellphy/jack-compiler) - jack语言编译器
 - [NJU-TJL/Qt5-MusicPlayer](https://github.com/NJU-TJL/Qt5-MusicPlayer) - 基于Qt5开发的一个小巧精美的本地音乐播放器。代码注释详细，适合作为一个用于入门的Qt5实战项目。
 - [XMuli/QtExamples](https://github.com/XMuli/QtExamples) - Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt Creator；此为系列文章教程
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [ksco/rvld](https://github.com/ksco/rvld) - Learn how to write a minimal working linker from scratch
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -294,7 +295,7 @@
 
 ## Java 
 
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源建站工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 - [BUAA-SE-Compiling/miniSysY_example_compiler](https://github.com/BUAA-SE-Compiling/miniSysY_example_compiler) - 
 - [leungwensen/cbc-ubuntu-64bit](https://github.com/leungwensen/cbc-ubuntu-64bit) - Cb (C flat) compiler.  Cb is simplified C.
 - [showstarpro/sysy](https://github.com/showstarpro/sysy) - 
@@ -365,6 +366,7 @@
 
 ## Others 
 
+- [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [anonymousGiga/Collection-of-rust-interview-questions](https://github.com/anonymousGiga/Collection-of-rust-interview-questions) - Rust面试题收集
 - [oscomp/proj93-la-tsinghuaOS](https://github.com/oscomp/proj93-la-tsinghuaOS) - 
@@ -509,6 +511,8 @@
 
 ## Rust 
 
+- [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - Hypocaust is a S-mode trap and emulate type-1 hypervisor run on RISC-V machine.
+- [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
 - [raviqqe/melior](https://github.com/raviqqe/melior) - The rustic MLIR bindings in Rust
 - [ArtemSkrebkov/mlir-rust-toy](https://github.com/ArtemSkrebkov/mlir-rust-toy) - MLIR Toy tutorial in Rust! See how you can implement a programming language using MLIR and Rust.
@@ -653,7 +657,7 @@
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -827,6 +831,7 @@
 
 ## TypeScript 
 
+- [tauri-apps/tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development
 - [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - :white_large_square: 🟩 GitHub Contributions Graph Generator.  :octocat:
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Your one-stop portal for following LoongArch upstream work.
@@ -870,6 +875,7 @@
 
 ## Vue 
 
+- [John-Weeks-Dev/spotify-clone](https://github.com/John-Weeks-Dev/spotify-clone) - This is a Spotify Clone made with Vite, Vue 3, Tailwind CSS, and Pinia
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial) - 用 django-rest-framework 和 vue 搭建前后端分离的个人博客
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
