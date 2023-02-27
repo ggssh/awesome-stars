@@ -117,6 +117,7 @@
 
 ## C++ 
 
+- [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [SilverMaple/STLSourceCodeNote](https://github.com/SilverMaple/STLSourceCodeNote) - SGI STL source code analysis and note from 《STL源码剖析》 by 侯捷（包含电子书、源码注释及测试代码）
 - [agraef/pure-lang](https://github.com/agraef/pure-lang) - Pure programming language
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
@@ -331,6 +332,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes) - 一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -385,7 +387,6 @@
 - [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, 
-- [cyberaurora/jvm-rust-paperwork](https://github.com/cyberaurora/jvm-rust-paperwork) - 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
@@ -468,6 +469,7 @@
 
 ## Python 
 
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [zcxey2911/Python_ChatGPT_ForDingding_OpenAi](https://github.com/zcxey2911/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
 - [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
 - [migege/dnspod](https://github.com/migege/dnspod) - dnspod.py 是基于 DNSPod 服务的动态 DNS 脚本，用于检测 IP 变化并更新至 DNSPod，支持多域名解析。支持 Linux 设备，包括树莓派（Raspberry Pi）。
@@ -540,7 +542,7 @@
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [maekawatoshiki/long](https://github.com/maekawatoshiki/long) - C++ Compiler
-- [cargo-youth/nerdos](https://github.com/cargo-youth/nerdos) - 基于rust重写的alios内核
+- [cargo-youth/nerdos](https://github.com/cargo-youth/nerdos) - 一种支持多种架构嵌入式领域的实时操作系统，支持网络通信和grub启动
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [1148118271/ssh-rs](https://github.com/1148118271/ssh-rs) - Rust implementation of ssh2.0 client 👻 rust实现的ssh2.0客户端
@@ -713,7 +715,7 @@
 - [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
 - [douchuan/jvm](https://github.com/douchuan/jvm) - JVM in Rust, written as a learning project.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
@@ -826,6 +828,7 @@
 
 ## TeX 
 
+- [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 - [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) - 上海交通大学 XeLaTeX 学位论文及课程论文模板 | Shanghai Jiao Tong University XeLaTeX Thesis Template
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历
 - [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
@@ -838,6 +841,7 @@
 
 ## TypeScript 
 
+- [ActivePeter/lets_learn_tech](https://github.com/ActivePeter/lets_learn_tech) - community to learn tech together
 - [tauri-apps/tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development
 - [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - :white_large_square: 🟩 GitHub Contributions Graph Generator.  :octocat:
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
