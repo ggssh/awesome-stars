@@ -62,6 +62,7 @@
 
 ## C 
 
+- [lovelessless99/Just-In-Time-Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler) - 
 - [Xlgd/csapp](https://github.com/Xlgd/csapp) - CSAPP exercises answers and labs
 - [sunshaoce/rvcc](https://github.com/sunshaoce/rvcc) - 本课程基于Rui的chibicc，@sunshaoce和@ksco将其由原来的X86架构改写为RISC-V 64架构，同时加入了大量的中文注释，并且配有316节对应于每一个commit的课程，帮助读者可以层层推进、逐步深入的学习编译器的构造。
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -112,7 +113,7 @@
 
 ## C# # 
 
-- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长
+- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier) - 2022 年春季学期清华大学《软件分析与验证》课程实验平台
 
 ## C++ 
@@ -272,7 +273,6 @@
 
 ## HTML 
 
-- [cargo-youth/ToolDiy](https://github.com/cargo-youth/ToolDiy) - 一本工具指南和开箱即用配置，旨在让大家选用和上手合适的工具。
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
@@ -469,6 +469,7 @@
 
 ## Python 
 
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [zcxey2911/Python_ChatGPT_ForDingding_OpenAi](https://github.com/zcxey2911/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
 - [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
@@ -515,6 +516,9 @@
 
 ## Rust 
 
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
+- [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
+- [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
@@ -789,7 +793,7 @@
 - [sifive/chisel-circt](https://github.com/sifive/chisel-circt) - Library to compile Chisel circuits using LLVM/MLIR (CIRCT)
 - [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
 - [ucb-bar/chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial) - chisel tutorial exercises and answers
-- [chipsalliance/chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
 
 ## Shell 
@@ -828,6 +832,7 @@
 
 ## TeX 
 
+- [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 - [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) - 上海交通大学 XeLaTeX 学位论文及课程论文模板 | Shanghai Jiao Tong University XeLaTeX Thesis Template
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历
@@ -841,6 +846,7 @@
 
 ## TypeScript 
 
+- [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [ActivePeter/lets_learn_tech](https://github.com/ActivePeter/lets_learn_tech) - community to learn tech together
 - [tauri-apps/tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development
 - [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - :white_large_square: 🟩 GitHub Contributions Graph Generator.  :octocat:
