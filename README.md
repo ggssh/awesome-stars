@@ -92,7 +92,7 @@
 - [Fedjmike/mini-c](https://github.com/Fedjmike/mini-c) - Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - OS Lectures 2022 Spring https://learningos.github.io/os-lectures/
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - OS Lectures 2023 Spring https://learningos.github.io/os-lectures/
 - [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
 - [kaist-cp/rv6](https://github.com/kaist-cp/rv6) - 
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
@@ -119,6 +119,9 @@
 
 ## C++ 
 
+- [secure-software-engineering/phasar](https://github.com/secure-software-engineering/phasar) - A LLVM-based static analysis framework.
+- [SVF-tools/SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
+- [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 - [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [SilverMaple/STLSourceCodeNote](https://github.com/SilverMaple/STLSourceCodeNote) - SGI STL source code analysis and note from 《STL源码剖析》 by 侯捷（包含电子书、源码注释及测试代码）
 - [agraef/pure-lang](https://github.com/agraef/pure-lang) - Pure programming language
@@ -311,6 +314,7 @@
 
 ## JavaScript 
 
+- [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [linuxdeepin/.github](https://github.com/linuxdeepin/.github) - The github tools
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -384,6 +388,7 @@
 - [ixinzhi/loving-books-part1](https://github.com/ixinzhi/loving-books-part1) - :books: 恋爱指南
 - [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023春夏季开源操作系统训练营
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
@@ -437,7 +442,7 @@
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
 - [lazyparser/becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
-- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2022"相关信息
+- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2023"相关信息
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：程序员编程指南
 - [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
@@ -470,6 +475,8 @@
 
 ## Python 
 
+- [silkeh/docker-clang](https://github.com/silkeh/docker-clang) - Dockerfiles for Clang and LLVM
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -518,6 +525,12 @@
 
 ## Rust 
 
+- [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
+- [rust-secure-code/cargo-geiger](https://github.com/rust-secure-code/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+- [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [retrage/gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
+- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
 - [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
@@ -572,7 +585,6 @@
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A bLazIngLy FAsT URL shortener that uses emojis, only emojis.
-- [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - [2023开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -641,7 +653,7 @@
 - [wfly1998/DailySchedule_2020](https://github.com/wfly1998/DailySchedule_2020) - OS Tutorial Summer of Code 2020
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [jsdw/yap](https://github.com/jsdw/yap) - Yet Another Parser library for Rust. A lightweight, dependency free, parser combinator inspired set of utility methods to help with parsing strings and slices.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [geom3trik/tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust
 - [sile/efmt](https://github.com/sile/efmt) - Erlang code formatter
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -662,7 +674,7 @@
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [KernelErr/MoeOS](https://github.com/KernelErr/MoeOS) - Cute tiny operating system for RISC-V. ฅ•ω•ฅ
 - [rcore-os/rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial) - Tutorial for rCore OS step by step (3rd edition)
-- [Pr47/Pr47](https://github.com/Pr47/Pr47) - The formal development repository for Pr47
+- [Pr47/Project-47](https://github.com/Pr47/Project-47) - The formal development repository for Pr47
 - [sajattack/bitbang-hal](https://github.com/sajattack/bitbang-hal) - Implements embedded-hal traits by bitbanging
 - [subconsciousnetwork/subtext](https://github.com/subconsciousnetwork/subtext) - Markup for note taking
 - [mbrubeck/robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
@@ -836,7 +848,7 @@
 
 - [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
-- [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) - 上海交通大学 XeLaTeX 学位论文及课程论文模板 | Shanghai Jiao Tong University XeLaTeX Thesis Template
+- [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) - 上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历
 - [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [onsimplet/NEUQPaperLaTeXTemplateUpdate](https://github.com/onsimplet/NEUQPaperLaTeXTemplateUpdate) - 东北大学秦皇岛分校2020年本科毕业论文 LaTex 模板更新修改
@@ -848,6 +860,7 @@
 
 ## TypeScript 
 
+- [chenzhiy2001/code-debug](https://github.com/chenzhiy2001/code-debug) - 支持Rust语言的源代码级内核调试工具
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [ActivePeter/lets_learn_tech](https://github.com/ActivePeter/lets_learn_tech) - community to learn tech together
 - [tauri-apps/tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development
