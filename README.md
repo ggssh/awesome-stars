@@ -48,7 +48,6 @@
 - [Verilog](#verilog)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## ANTLR 
@@ -64,6 +63,7 @@
 
 ## C 
 
+- [PacktPublishing/Hands-On-Design-Patterns-with-CPP](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP) - Hands-On Design Patterns with C++, published by Packt
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [computer-net/MIT-6.S081-2020](https://github.com/computer-net/MIT-6.S081-2020) - 2020年 MIT-6.S801 实验代码仓库
 - [lovelessless99/Just-In-Time-Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler) - 
@@ -82,7 +82,7 @@
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
 - [eugene-tarassov/vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v) - Xilinx Vivado block designs for FPGA RISC-V SoC running Debian Linux distro
-- [LZU-OSLab/opensbi](https://github.com/LZU-OSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
+- [RvOSLab/opensbi](https://github.com/RvOSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [wyfcyx/osnotes](https://github.com/wyfcyx/osnotes) - Some notes or translations about operating system or programming language.
 - [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
 - [hoverwinter/HIT-OSLab](https://github.com/hoverwinter/HIT-OSLab) - S - 哈工大《操作系统》实验
@@ -257,7 +257,6 @@
 
 ## Dart 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -311,6 +310,7 @@
 
 ## Java 
 
+- [luoye663/e5](https://github.com/luoye663/e5) - e5续订
 - [HonkaiScanner/bh3_login_simulation](https://github.com/HonkaiScanner/bh3_login_simulation) - 轻巧的崩坏3渠道服桌面端扫码登陆解决方案
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 - [BUAA-SE-Compiling/miniSysY_example_compiler](https://github.com/BUAA-SE-Compiling/miniSysY_example_compiler) - 
@@ -387,6 +387,7 @@
 
 ## Others 
 
+- [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [soulmachine/system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选
 - [loongarch64/projX-la-tcc](https://github.com/loongarch64/projX-la-tcc) - porting TCC compiler to LoongArch
 - [oneliey/BUPT-SCS-Courses](https://github.com/oneliey/BUPT-SCS-Courses) - BUPT SCS 选修课指北
@@ -490,6 +491,7 @@
 
 ## Python 
 
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [csc-training/hpc-python](https://github.com/csc-training/hpc-python) - Python in High Performance Computing
 - [silkeh/docker-clang](https://github.com/silkeh/docker-clang) - Dockerfiles for Clang and LLVM
@@ -542,6 +544,13 @@
 
 ## Rust 
 
+- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
+- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
+- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+- [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
+- [getditto/safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code
+- [dalance/svls](https://github.com/dalance/svls) - SystemVerilog language server
+- [tauri-apps/tauri-bindgen](https://github.com/tauri-apps/tauri-bindgen) - Typesafe language bindings generator for the Tauri IPC bridge
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -572,6 +581,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
@@ -609,7 +619,7 @@
 - [luojia65/tiaoshi-dashi-sbi](https://github.com/luojia65/tiaoshi-dashi-sbi) - 调试大师：你见过最强的内核调试器
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
-- [sekunho/emojied](https://github.com/sekunho/emojied) - A bLazIngLy FAsT URL shortener that uses emojis, only emojis.
+- [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
 - [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -629,7 +639,7 @@
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, tui, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
@@ -708,6 +718,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
@@ -884,7 +895,8 @@
 
 ## TypeScript 
 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [chenzhiy2001/code-debug](https://github.com/chenzhiy2001/code-debug) - 支持Rust语言的源代码级内核调试工具
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [ActivePeter/lets_learn_tech](https://github.com/ActivePeter/lets_learn_tech) - community to learn tech together
@@ -898,7 +910,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
+- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
@@ -939,10 +951,6 @@
 - [YAVGroup/Verilog-OJ](https://github.com/YAVGroup/Verilog-OJ) - Online judge server for Verilog | verilogoj.ustc.edu.cn
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
-
-## WebAssembly 
-
-- [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 
 ## Zig 
 
