@@ -348,6 +348,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes) - 一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
@@ -387,6 +388,7 @@
 
 ## Others 
 
+- [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [soulmachine/system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选
 - [loongarch64/projX-la-tcc](https://github.com/loongarch64/projX-la-tcc) - porting TCC compiler to LoongArch
@@ -491,12 +493,12 @@
 
 ## Python 
 
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能
+- [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [csc-training/hpc-python](https://github.com/csc-training/hpc-python) - Python in High Performance Computing
 - [silkeh/docker-clang](https://github.com/silkeh/docker-clang) - Dockerfiles for Clang and LLVM
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [zcxey2911/Python_ChatGPT_ForDingding_OpenAi](https://github.com/zcxey2911/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
@@ -504,7 +506,7 @@
 - [migege/dnspod](https://github.com/migege/dnspod) - dnspod.py 是基于 DNSPod 服务的动态 DNS 脚本，用于检测 IP 变化并更新至 DNSPod，支持多域名解析。支持 Linux 设备，包括树莓派（Raspberry Pi）。
 - [JerrybroDu/cats_vs_dogs](https://github.com/JerrybroDu/cats_vs_dogs) - 猫狗识别分类(深度学习入门案例)，使用了Tensorflow框架 和 CNN神经网络实现。附有超详细的代码注释，适合新手直接上手Run！
 - [0809zheng/dogs-VS-cats-pytorch](https://github.com/0809zheng/dogs-VS-cats-pytorch) - Pytorch实现Kaggle竞赛“猫狗分类”，准确率超过99%。
-- [zu1k/my_followers](https://github.com/zu1k/my_followers) - love you all
+- [zu1k/my_followers](https://github.com/zu1k/my_followers) - Automatically generate an avatar wall of followers for your GitHub account
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
@@ -544,6 +546,9 @@
 
 ## Rust 
 
+- [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
+- [rust-minidump/rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
+- [dalance/svlint](https://github.com/dalance/svlint) - SystemVerilog linter
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
@@ -895,6 +900,7 @@
 
 ## TypeScript 
 
+- [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [chenzhiy2001/code-debug](https://github.com/chenzhiy2001/code-debug) - 支持Rust语言的源代码级内核调试工具
@@ -931,6 +937,7 @@
 
 ## Verilog 
 
+- [ZipCPU/wbuart32](https://github.com/ZipCPU/wbuart32) - A simple, basic, formally verified UART controller
 - [aolofsson/oh](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers
 - [Lyncien/RISC-V-32I](https://github.com/Lyncien/RISC-V-32I) - 体系结构课程实验：RISC-V 32I 流水线 CPU，实现37条指令，转发，冒险检测，Cache，分支预测器
 - [Trinkle23897/mips32-cpu](https://github.com/Trinkle23897/mips32-cpu) - 奋战一学期，造台计算机（编译出的bit文件在release中，可以直接食用）
