@@ -38,6 +38,7 @@
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Stylus](#stylus)
@@ -63,6 +64,10 @@
 
 ## C 
 
+- [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
+- [uclasystem/hermit](https://github.com/uclasystem/hermit) - Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony
+- [flang-compiler/flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
+- [wangbojing/NtyCo](https://github.com/wangbojing/NtyCo) - 纯c版本的协程实现，汇编切换，调度器实现，包含服务器端案例，客户端并发测试案例
 - [PacktPublishing/Hands-On-Design-Patterns-with-CPP](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP) - Hands-On Design Patterns with C++, published by Packt
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [computer-net/MIT-6.S081-2020](https://github.com/computer-net/MIT-6.S081-2020) - 2020年 MIT-6.S801 实验代码仓库
@@ -122,6 +127,7 @@
 
 ## C++ 
 
+- [llvm/Polygeist](https://github.com/llvm/Polygeist) - C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more!
 - [tanzelin430/2020_Fall_Compiler-labs-of-USTC](https://github.com/tanzelin430/2020_Fall_Compiler-labs-of-USTC) - These are the compiler labs of University of Science and Technology of China,2020 fall semester.They were designed and coded by Zelin Tan,Yuchen Ai and Rui Lv.Feel free to send your comments to tanzl@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [secure-software-engineering/phasar](https://github.com/secure-software-engineering/phasar) - A LLVM-based static analysis framework.
@@ -150,7 +156,7 @@
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [jeaye/stdman](https://github.com/jeaye/stdman) - Formatted C++20 stdlib man pages (cppreference)
 - [TerenceNg03/RMMC](https://github.com/TerenceNg03/RMMC) - Course Project for 2022 ZJU Compiler Construction Principle and Practice
-- [JY-Liu-i/C-minus-compiler](https://github.com/JY-Liu-i/C-minus-compiler) - 同济大学编译原理课程设计类C编译器任务
+- [juyaoliu/C-minus-compiler](https://github.com/juyaoliu/C-minus-compiler) - 同济大学编译原理课程设计类C编译器任务
 - [caohyang/Compiler-SysYF-CodeGen-Opt](https://github.com/caohyang/Compiler-SysYF-CodeGen-Opt) - 2021秋-编译原理与技术-代码优化
 - [zhuez16/bazinga_compiler](https://github.com/zhuez16/bazinga_compiler) - 
 - [tinsir888/compiler-sysy](https://github.com/tinsir888/compiler-sysy) - NKU CS major compulsory course in 5th semester, taught by Prof. Wang Gang. Finish a compiler of language SysY(A subset of language C), by using auxiliary tools bison and yacc. It is widely regarded as
@@ -245,6 +251,7 @@
 
 ## CSS 
 
+- [green7ea/cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 
 ## Common Lisp 
@@ -261,6 +268,7 @@
 
 ## Dockerfile 
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [z4yx/vivado-docker](https://github.com/z4yx/vivado-docker) - Dockerfile with Vivado for CI
 
 ## Erlang 
@@ -269,6 +277,7 @@
 
 ## Go 
 
+- [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [ksco/rvld](https://github.com/ksco/rvld) - Learn how to write a minimal working linker from scratch
@@ -348,7 +357,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [PartnerDAO/Prompt-Engineering-Guide-zh](https://github.com/PartnerDAO/Prompt-Engineering-Guide-zh) - 提示工程的指南、论文、讲座和资源，提示词逆向工程
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes) - 一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
@@ -368,6 +377,7 @@
 
 ## Makefile 
 
+- [PacktPublishing/Linux-Kernel-Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming) - Linux Kernel Programming, published by Packt
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
 - [elongbug/llvm-cookbook](https://github.com/elongbug/llvm-cookbook) - llvm-cookbook samples
@@ -388,6 +398,7 @@
 
 ## Others 
 
+- [uclasystem/Semeru](https://github.com/uclasystem/Semeru) - A Memory-Disaggregated Managed Runtime.
 - [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [soulmachine/system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选
@@ -493,12 +504,14 @@
 
 ## Python 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [csc-training/hpc-python](https://github.com/csc-training/hpc-python) - Python in High Performance Computing
 - [silkeh/docker-clang](https://github.com/silkeh/docker-clang) - Dockerfiles for Clang and LLVM
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [zcxey2911/Python_ChatGPT_ForDingding_OpenAi](https://github.com/zcxey2911/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
@@ -546,6 +559,13 @@
 
 ## Rust 
 
+- [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) - A if/elif-like macro for Rust #[cfg] statements
+- [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
+- [nrc/stupid-stats](https://github.com/nrc/stupid-stats) - Tutorial and demo of rust compiler replacement tooling
+- [mrgian/felix](https://github.com/mrgian/felix) - 🐱 x86 operating system
+- [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
+- [WuBingzheng/build-lua-in-rust](https://github.com/WuBingzheng/build-lua-in-rust) - 用Rust实现Lua解释器 / Build a Lua Interpreter in Rust
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
 - [rust-minidump/rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [dalance/svlint](https://github.com/dalance/svlint) - SystemVerilog linter
@@ -792,7 +812,7 @@
 - [nervosnetwork/ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [P-bibs/skiff](https://github.com/P-bibs/skiff) - A gradually-typed, functional scripting language with a friendly syntax and interpreter written in Rust!
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [facebookexperimental/MIRAI](https://github.com/facebookexperimental/MIRAI) - Rust mid-level IR Abstract Interpreter
@@ -838,6 +858,10 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
 
+## SCSS 
+
+- [llvm/mlir-www](https://github.com/llvm/mlir-www) - 
+
 ## Scala 
 
 - [OpenXiangShan/HuanCun](https://github.com/OpenXiangShan/HuanCun) - Open-source high-performance non-blocking cache
@@ -852,6 +876,7 @@
 
 ## Shell 
 
+- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) - Linux 101 学生课程教材与讲义
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) - 🔎 互联网内推信息（社招、校招、实习）
 - [OSCPU/ysyx-workbench](https://github.com/OSCPU/ysyx-workbench) - 
@@ -923,7 +948,7 @@
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -937,6 +962,7 @@
 
 ## Verilog 
 
+- [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
 - [ZipCPU/wbuart32](https://github.com/ZipCPU/wbuart32) - A simple, basic, formally verified UART controller
 - [aolofsson/oh](https://github.com/aolofsson/oh) - Verilog library for ASIC and FPGA designers
 - [Lyncien/RISC-V-32I](https://github.com/Lyncien/RISC-V-32I) - 体系结构课程实验：RISC-V 32I 流水线 CPU，实现37条指令，转发，冒险检测，Cache，分支预测器
