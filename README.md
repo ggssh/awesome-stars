@@ -286,7 +286,7 @@
 - [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) - Whole Program LLVM: wllvm ported to go
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [ksco/rvld](https://github.com/ksco/rvld) - Learn how to write a minimal working linker from scratch
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -327,6 +327,8 @@
 
 ## Java 
 
+- [ldbc/ldbc_snb_datagen_spark](https://github.com/ldbc/ldbc_snb_datagen_spark) - Synthetic graph generator for the LDBC Social Network Benchmark, running on Spark
+- [ldbc/ldbc_snb_interactive_impls](https://github.com/ldbc/ldbc_snb_interactive_impls) - Reference implementations for LDBC Social Network Benchmark's Interactive workload.
 - [luoye663/e5](https://github.com/luoye663/e5) - e5续订
 - [HonkaiScanner/bh3_login_simulation](https://github.com/HonkaiScanner/bh3_login_simulation) - 轻巧的崩坏3渠道服桌面端扫码登陆解决方案
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
@@ -519,7 +521,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [csc-training/hpc-python](https://github.com/csc-training/hpc-python) - Python in High Performance Computing
 - [silkeh/docker-clang](https://github.com/silkeh/docker-clang) - Dockerfiles for Clang and LLVM
@@ -572,6 +574,7 @@
 
 ## Rust 
 
+- [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
 - [femtomc/mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -653,7 +656,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
