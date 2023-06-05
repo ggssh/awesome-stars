@@ -6,6 +6,7 @@
 ## Contents
 
 - [ANTLR](#antlr)
+- [ASL](#asl)
 - [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
@@ -35,7 +36,6 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -54,6 +54,10 @@
 ## ANTLR 
 
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
+## ASL 
+
+- [hibobmaster/HP-15-dc1010nr-hackintosh](https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh) - HP-15-dc1010nr-hackintosh-OpenCore-EFI | 暗影精灵5
 
 ## Assembly 
 
@@ -132,6 +136,8 @@
 
 ## C++ 
 
+- [thu-pacman/LiveGraph-Binary](https://github.com/thu-pacman/LiveGraph-Binary) - LiveGraph: a transactional graph storage system with purely sequential adjacency list scans
+- [TriCache-OSDI-AE/LiveGraph-snb](https://github.com/TriCache-OSDI-AE/LiveGraph-snb) - 
 - [vaivaswatha/debugir](https://github.com/vaivaswatha/debugir) - DebugIR: Debugging LLVM-IR Files
 - [llvm/Polygeist](https://github.com/llvm/Polygeist) - C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more!
 - [tanzelin430/2020_Fall_Compiler-labs-of-USTC](https://github.com/tanzelin430/2020_Fall_Compiler-labs-of-USTC) - These are the compiler labs of University of Science and Technology of China,2020 fall semester.They were designed and coded by Zelin Tan,Yuchen Ai and Rui Lv.Feel free to send your comments to tanzl@
@@ -327,6 +333,7 @@
 
 ## Java 
 
+- [TriCache-OSDI-AE/ldbc_snb_implementations](https://github.com/TriCache-OSDI-AE/ldbc_snb_implementations) - Implementations for the Interactive and BI workloads of the LDBC Social Network Benchmark.
 - [ldbc/ldbc_snb_datagen_spark](https://github.com/ldbc/ldbc_snb_datagen_spark) - Synthetic graph generator for the LDBC Social Network Benchmark, running on Spark
 - [ldbc/ldbc_snb_interactive_impls](https://github.com/ldbc/ldbc_snb_interactive_impls) - Reference implementations for LDBC Social Network Benchmark's Interactive workload.
 - [luoye663/e5](https://github.com/luoye663/e5) - e5续订
@@ -518,6 +525,7 @@
 
 ## Python 
 
+- [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
@@ -564,16 +572,13 @@
 - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [pandolia/tinyc](https://github.com/pandolia/tinyc) - https://pandolia.net/tinyc/
 
-## Rich Text Format 
-
-- [hibobmaster/HP-15-dc1010nr-hackintosh](https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh) - HP-15-dc1010nr-hackintosh-OpenCore-EFI | 暗影精灵5
-
 ## Ruby 
 
 - [brickpop/flutter-rust-ffi](https://github.com/brickpop/flutter-rust-ffi) - Starter project for Flutter plugins willing to access native and synchronous rust code using FFI
 
 ## Rust 
 
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
 - [femtomc/mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
@@ -616,7 +621,7 @@
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
-- [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+- [KusionStack/kcl](https://github.com/KusionStack/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
