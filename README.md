@@ -416,6 +416,7 @@
 
 ## Others 
 
+- [oscomp/proj3-PKE-oslabs](https://github.com/oscomp/proj3-PKE-oslabs) - 一组面向普通大学本科生的简单操作系统实验
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
@@ -956,7 +957,7 @@
 - [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [chenzhiy2001/code-debug](https://github.com/chenzhiy2001/code-debug) - 支持Rust语言的源代码级内核调试工具
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [ActivePeter/lets_learn_tech](https://github.com/ActivePeter/lets_learn_tech) - community to learn tech together
