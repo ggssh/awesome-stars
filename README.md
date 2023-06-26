@@ -27,6 +27,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [OCaml](#ocaml)
@@ -43,6 +44,7 @@
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [SystemVerilog](#systemverilog)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -68,6 +70,7 @@
 
 ## C 
 
+- [linux-rdma/rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
 - [LineageOS/android_kernel_xiaomi_sdm845](https://github.com/LineageOS/android_kernel_xiaomi_sdm845) - 
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [tov/libffi-rs](https://github.com/tov/libffi-rs) - Rust bindings for libffi
@@ -95,7 +98,6 @@
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
-- [eugene-tarassov/vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v) - Xilinx Vivado block designs for FPGA RISC-V SoC running Debian Linux distro
 - [RvOSLab/opensbi](https://github.com/RvOSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [wyfcyx/osnotes](https://github.com/wyfcyx/osnotes) - Some notes or translations about operating system or programming language.
 - [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
@@ -393,6 +395,10 @@
 - [Komorebi660/SysYF-Compiler](https://github.com/Komorebi660/SysYF-Compiler) - 2021年中国科学技术大学编译原理(H)课程实验项目
 - [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南
 
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [PacktPublishing/Linux-Kernel-Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming) - Linux Kernel Programming, published by Packt
@@ -527,7 +533,7 @@
 ## Python 
 
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
@@ -662,7 +668,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
@@ -864,7 +870,6 @@
 - [luoyou/lexer](https://github.com/luoyou/lexer) - rust 实现的语法分析
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
@@ -937,6 +942,10 @@
 
 - [WangXuan95/USTC-RVSoC](https://github.com/WangXuan95/USTC-RVSoC) - An FPGA-based RISC-V CPU+SoC with a simple and extensible peripheral bus. 基于FPGA的RISC-V CPU+SoC，包含一个简单且可扩展的外设总线。
 - [pulp-platform/snitch](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system!
+
+## Tcl 
+
+- [eugene-tarassov/vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v) - Xilinx Vivado block designs for FPGA RISC-V SoC running Debian Linux distro
 
 ## TeX 
 
