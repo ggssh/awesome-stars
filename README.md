@@ -384,7 +384,7 @@
 
 ## Jupyter Notebook 
 
-- [PartnerDAO/Prompt-Engineering-Guide-zh](https://github.com/PartnerDAO/Prompt-Engineering-Guide-zh) - 提示工程的指南、论文、讲座和资源，提示词逆向工程
+- [effortleeai/Prompt-Engineering-Guide-zh](https://github.com/effortleeai/Prompt-Engineering-Guide-zh) - 提示工程的指南、论文、讲座和资源，提示词逆向工程
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes) - 一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
@@ -543,7 +543,7 @@
 
 ## Python 
 
-- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道 自动日常｜每日实训｜清体力｜锄大地｜模拟宇宙｜忘却之庭｜图形界面｜消息推送｜循环运行
+- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 🧊 崩坏：星穹铁道 自动日常｜每日实训｜清体力｜锄大地｜模拟宇宙｜忘却之庭｜图形界面｜消息推送｜循环运行
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -556,7 +556,7 @@
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [zcxey2911/Python_ChatGPT_ForDingding_OpenAi](https://github.com/zcxey2911/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
+- [v3ucn/Python_ChatGPT_ForDingding_OpenAi](https://github.com/v3ucn/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
 - [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
 - [migege/dnspod](https://github.com/migege/dnspod) - dnspod.py 是基于 DNSPod 服务的动态 DNS 脚本，用于检测 IP 变化并更新至 DNSPod，支持多域名解析。支持 Linux 设备，包括树莓派（Raspberry Pi）。
 - [JerrybroDu/cats_vs_dogs](https://github.com/JerrybroDu/cats_vs_dogs) - 猫狗识别分类(深度学习入门案例)，使用了Tensorflow框架 和 CNN神经网络实现。附有超详细的代码注释，适合新手直接上手Run！
@@ -684,7 +684,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
@@ -700,7 +700,7 @@
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
-- [EnabledFish/Nyah](https://github.com/EnabledFish/Nyah) - 🐱 A programming language, meow~
+- [Cy6er7um/Nyah](https://github.com/Cy6er7um/Nyah) - 🐱 A programming language, meow~
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
@@ -710,7 +710,7 @@
 - [oli-obk/rust-si](https://github.com/oli-obk/rust-si) - a rusty `scanf` (`scan!`) and inverse of `print!` (`read!`)
 - [wyfcyx/rustsbi-qemu](https://github.com/wyfcyx/rustsbi-qemu) - QEMU platform SBI support implementation, using RustSBI
 - [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
