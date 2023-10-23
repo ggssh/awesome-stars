@@ -142,6 +142,7 @@
 
 ## C++ 
 
+- [Theresa-0328/MHY_Scanner](https://github.com/Theresa-0328/MHY_Scanner) - 崩坏3，原神，星穹铁道的Windows平台的扫码和抢码登录器，支持从直播流抢码。
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [thu-pacman/LiveGraph-Binary](https://github.com/thu-pacman/LiveGraph-Binary) - LiveGraph: a transactional graph storage system with purely sequential adjacency list scans
@@ -386,7 +387,7 @@
 
 ## Jupyter Notebook 
 
-- [effortleeai/Prompt-Engineering-Guide-zh](https://github.com/effortleeai/Prompt-Engineering-Guide-zh) - 提示工程的指南、论文、讲座和资源，提示词逆向工程
+- [PartnerDAO/Prompt-Engineering-Guide-zh](https://github.com/PartnerDAO/Prompt-Engineering-Guide-zh) - 提示工程的指南、论文、讲座和资源，提示词逆向工程
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes) - 一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
@@ -547,6 +548,7 @@
 
 ## Python 
 
+- [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
 - [infstellar/genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
@@ -602,6 +604,7 @@
 
 ## Rust 
 
+- [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling.
 - [hermit-os/kernel](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [claytonwramsey/dumpster](https://github.com/claytonwramsey/dumpster) - Cycle-tracking garbage collector library for Rust
@@ -650,7 +653,7 @@
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
 - [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
@@ -801,7 +804,7 @@
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Alternative to Snowflake. Cost-effective and simple for massive-scale insights. DatabendCloud: https://databend.com
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
 - [rust-vmm/vfio-ioctls](https://github.com/rust-vmm/vfio-ioctls) - Safe wrappers for VFIO
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -855,7 +858,7 @@
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
-- [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift) - Cranelift based backend for rustc
+- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) - Cranelift based backend for rustc
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
@@ -931,6 +934,7 @@
 
 ## Shell 
 
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) - Linux 101 学生课程教材与讲义
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
