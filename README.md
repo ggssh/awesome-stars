@@ -162,7 +162,6 @@
 - [SilverMaple/STLSourceCodeNote](https://github.com/SilverMaple/STLSourceCodeNote) - SGI STL source code analysis and note from 《STL源码剖析》 by 侯捷（包含电子书、源码注释及测试代码）
 - [agraef/pure-lang](https://github.com/agraef/pure-lang) - Pure programming language
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [dimensity-twrp-dev/device_xiaomi_rubens-TWRP](https://github.com/dimensity-twrp-dev/device_xiaomi_rubens-TWRP) - TWRP device tree for Redmi K50 (rubens)
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -295,6 +294,7 @@
 
 ## Dockerfile 
 
+- [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 - [z4yx/vivado-docker](https://github.com/z4yx/vivado-docker) - Dockerfile with Vivado for CI
 
 ## Erlang 
@@ -368,7 +368,7 @@
 ## JavaScript 
 
 - [hewang1an/StarRail-plugin](https://github.com/hewang1an/StarRail-plugin) - 星穹铁道插件
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PKUFlyingPig/CS61A](https://github.com/PKUFlyingPig/CS61A) - 
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
@@ -589,7 +589,7 @@
 - [kholia/mips-hacking](https://github.com/kholia/mips-hacking) - Notes on QEMU and Debian MIPS (big-endian)
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
-- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
@@ -663,7 +663,7 @@
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - The KCL Language Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Language Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
 - [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
@@ -685,6 +685,7 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [hyperledger/solang](https://github.com/hyperledger/solang) - Solidity Compiler for Solana and Polkadot
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
@@ -899,7 +900,7 @@
 - [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [siriusdemon/rusticode](https://github.com/siriusdemon/rusticode) - 是树和链表，快跑！
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [luoyou/lexer](https://github.com/luoyou/lexer) - rust 实现的语法分析
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
@@ -943,7 +944,6 @@
 
 ## Shell 
 
-- [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
@@ -978,7 +978,7 @@
 ## SystemVerilog 
 
 - [WangXuan95/USTC-RVSoC](https://github.com/WangXuan95/USTC-RVSoC) - An FPGA-based RISC-V CPU+SoC with a simple and extensible peripheral bus. 基于FPGA的RISC-V CPU+SoC，包含一个简单且可扩展的外设总线。
-- [pulp-platform/snitch](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system!
+- [pulp-platform/snitch](https://github.com/pulp-platform/snitch) - ⛔ DEPRECATED ⛔ Lean but mean RISC-V system!
 
 ## Tcl 
 
