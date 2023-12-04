@@ -162,6 +162,7 @@
 - [SilverMaple/STLSourceCodeNote](https://github.com/SilverMaple/STLSourceCodeNote) - SGI STL source code analysis and note from 《STL源码剖析》 by 侯捷（包含电子书、源码注释及测试代码）
 - [agraef/pure-lang](https://github.com/agraef/pure-lang) - Pure programming language
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [dimensity-twrp-dev/device_xiaomi_rubens-TWRP](https://github.com/dimensity-twrp-dev/device_xiaomi_rubens-TWRP) - TWRP device tree for Redmi K50 (rubens)
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -304,7 +305,7 @@
 ## Go 
 
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) - Whole Program LLVM: wllvm ported to go
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
@@ -348,6 +349,7 @@
 
 ## Java 
 
+- [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - 
 - [dacapobench/dacapobench](https://github.com/dacapobench/dacapobench) - The DaCapo benchmark suite
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [TriCache-OSDI-AE/ldbc_snb_implementations](https://github.com/TriCache-OSDI-AE/ldbc_snb_implementations) - Implementations for the Interactive and BI workloads of the LDBC Social Network Benchmark.
@@ -656,7 +658,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [KyleMayes/clang-sys](https://github.com/KyleMayes/clang-sys) - Rust bindings for libclang.
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
-- [rust-secure-code/cargo-geiger](https://github.com/rust-secure-code/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
+- [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [retrage/gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
@@ -685,7 +687,6 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [hyperledger/solang](https://github.com/hyperledger/solang) - Solidity Compiler for Solana and Polkadot
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) - &lt;&lt;Rust算法题解&gt;&gt;，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
@@ -1058,6 +1059,7 @@
 
 ## Vue 
 
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 - [John-Weeks-Dev/spotify-clone](https://github.com/John-Weeks-Dev/spotify-clone) - This is a Spotify Clone made with Vite, Vue 3, Tailwind CSS, and Pinia
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial) - 用 django-rest-framework 和 vue 搭建前后端分离的个人博客
