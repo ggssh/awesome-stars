@@ -351,6 +351,7 @@
 
 ## Java 
 
+- [google/jimfs](https://github.com/google/jimfs) - An in-memory file system for Java 7+
 - [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
 - [dacapobench/dacapobench](https://github.com/dacapobench/dacapobench) - The DaCapo benchmark suite
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
@@ -1009,7 +1010,7 @@
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [chenzhiy2001/code-debug](https://github.com/chenzhiy2001/code-debug) - 支持Rust语言的源代码级操作系统调试工具
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [ActivePeter/lets_learn_tech](https://github.com/ActivePeter/lets_learn_tech) - community to learn tech together
@@ -1023,7 +1024,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎
+- [OpenWebGAL/WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
