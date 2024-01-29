@@ -41,7 +41,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [SWIG](#swig)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Stylus](#stylus)
@@ -101,13 +100,13 @@
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
 - [kagurazakakotori/ubmp-cn-code](https://github.com/kagurazakakotori/ubmp-cn-code) - 《从零开始的UEFI裸机编程》中文版示例代码
-- [arcsysu/SYsU-lang](https://github.com/arcsysu/SYsU-lang) - A mini, simple and modular compiler for SYsU/SysY(tiny C). Based on Clang/LLVM.
+- [arcsysu/SYsU-lang](https://github.com/arcsysu/SYsU-lang) - A mini, simple and modular compiler for SYsU/SysY(tiny C). Based on Clang/LLVM/ANTLR4/Bison/Flex.
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
 - [RvOSLab/opensbi](https://github.com/RvOSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [wyfcyx/osnotes](https://github.com/wyfcyx/osnotes) - Some notes or translations about operating system or programming language.
-- [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
+- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [hoverwinter/HIT-OSLab](https://github.com/hoverwinter/HIT-OSLab) - S - 哈工大《操作系统》实验
 - [TianhuaTao/uCore-SMP](https://github.com/TianhuaTao/uCore-SMP) - A Symmetric Multiprocessing OS Kernel over RISC-V
 - [evilbinary/YiYiYa](https://github.com/evilbinary/YiYiYa) - YiYiYa 一个os
@@ -141,7 +140,7 @@
 
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-- [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
+- [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋 Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier) - 2022 年春季学期清华大学《软件分析与验证》课程实验平台
@@ -712,7 +711,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. 🚀 10x easier. 🚀 10x more cost-efficient.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
@@ -939,10 +938,6 @@
 
 - [llvm/mlir-www](https://github.com/llvm/mlir-www) - 
 
-## SWIG 
-
-- [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer
-
 ## Scala 
 
 - [OpenXiangShan/HuanCun](https://github.com/OpenXiangShan/HuanCun) - Open-source high-performance non-blocking cache
@@ -1011,6 +1006,7 @@
 
 ## TypeScript 
 
+- [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer
 - [Muromi-Rikka/folder-alias](https://github.com/Muromi-Rikka/folder-alias) - 
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
