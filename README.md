@@ -106,7 +106,6 @@
 - [PKUFlyingPig/MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) - MIT undergraduate operating system course
 - [RvOSLab/opensbi](https://github.com/RvOSLab/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [wyfcyx/osnotes](https://github.com/wyfcyx/osnotes) - Some notes or translations about operating system or programming language.
-- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [hoverwinter/HIT-OSLab](https://github.com/hoverwinter/HIT-OSLab) - S - 哈工大《操作系统》实验
 - [TianhuaTao/uCore-SMP](https://github.com/TianhuaTao/uCore-SMP) - A Symmetric Multiprocessing OS Kernel over RISC-V
 - [evilbinary/YiYiYa](https://github.com/evilbinary/YiYiYa) - YiYiYa 一个os
@@ -164,7 +163,7 @@
 - [SilverMaple/STLSourceCodeNote](https://github.com/SilverMaple/STLSourceCodeNote) - SGI STL source code analysis and note from 《STL源码剖析》 by 侯捷（包含电子书、源码注释及测试代码）
 - [agraef/pure-lang](https://github.com/agraef/pure-lang) - Pure programming language
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
 - [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [dimensity-twrp-dev/device_xiaomi_rubens-TWRP](https://github.com/dimensity-twrp-dev/device_xiaomi_rubens-TWRP) - TWRP device tree for Redmi K50 (rubens)
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -592,7 +591,7 @@
 - [UbuntuKylin/kylin-software-center](https://github.com/UbuntuKylin/kylin-software-center) - 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [kholia/mips-hacking](https://github.com/kholia/mips-hacking) - Notes on QEMU and Debian MIPS (big-endian)
-- [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
+- [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -798,6 +797,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rcore-os/riscv](https://github.com/rcore-os/riscv) - Low level access to RISCV processors
 - [sohardforaname/SimpleRustLuaJIT](https://github.com/sohardforaname/SimpleRustLuaJIT) - A simple lua jit implemented in Rust for HUST-Complier principle course.
+- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
