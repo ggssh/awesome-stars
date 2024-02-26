@@ -444,6 +444,7 @@
 
 ## Others 
 
+- [rustsbi/awesome-rustsbi](https://github.com/rustsbi/awesome-rustsbi) - A curated list of awesome things related to rustsbi
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
@@ -459,7 +460,7 @@
 - [loongarch64/projX-la-tcc](https://github.com/loongarch64/projX-la-tcc) - porting TCC compiler to LoongArch
 - [oneliey/BUPT-SCS-Courses](https://github.com/oneliey/BUPT-SCS-Courses) - BUPT SCS 选修课指北
 - [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
-- [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+- [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 - [anonymousGiga/Collection-of-rust-interview-questions](https://github.com/anonymousGiga/Collection-of-rust-interview-questions) - Rust面试题收集
 - [oscomp/proj93-la-tsinghuaOS](https://github.com/oscomp/proj93-la-tsinghuaOS) - 
 - [brupst/awesome-bupt-scs](https://github.com/brupst/awesome-bupt-scs) - 北京邮电大学计算机学院本科编程作业索引
@@ -595,6 +596,7 @@
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
@@ -616,6 +618,8 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
 - [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [phip1611/simple-chunk-allocator](https://github.com/phip1611/simple-chunk-allocator) - A simple allocator written in Rust that manages memory in fixed-size chunks.
@@ -1001,7 +1005,6 @@
 - [OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc) - Documentation for XiangShan
 - [onsimplet/NEUQPaperLaTeXTemplateUpdate](https://github.com/onsimplet/NEUQPaperLaTeXTemplateUpdate) - 东北大学秦皇岛分校2020年本科毕业论文 LaTex 模板更新修改
 - [schoeberl/chisel-book](https://github.com/schoeberl/chisel-book) - Digital Design with Chisel
-- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
