@@ -155,7 +155,7 @@
 - [vaivaswatha/debugir](https://github.com/vaivaswatha/debugir) - DebugIR: Debugging LLVM-IR Files
 - [llvm/Polygeist](https://github.com/llvm/Polygeist) - C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more!
 - [tanzelin430/2020_Fall_Compiler-labs-of-USTC](https://github.com/tanzelin430/2020_Fall_Compiler-labs-of-USTC) - These are the compiler labs of University of Science and Technology of China,2020 fall semester.They were designed and coded by Zelin Tan,Yuchen Ai and Rui Lv.Feel free to send your comments to tanzl@
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [secure-software-engineering/phasar](https://github.com/secure-software-engineering/phasar) - A LLVM-based static analysis framework.
 - [SVF-tools/SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
 - [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
@@ -350,6 +350,7 @@
 
 ## Java 
 
+- [huanmieruoshui/jdk8](https://github.com/huanmieruoshui/jdk8) - jdk8源码，会逐步加上自己的阅读注释。
 - [google/jimfs](https://github.com/google/jimfs) - An in-memory file system for Java 7+
 - [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
 - [dacapobench/dacapobench](https://github.com/dacapobench/dacapobench) - The DaCapo benchmark suite
@@ -472,7 +473,7 @@
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023秋冬季开源操作系统训练营
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！公众号：Qt教程
+- [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！公众号：Qt实战/Qt教程
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -587,7 +588,7 @@
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Prodesire/github-to-dingtalk](https://github.com/Prodesire/github-to-dingtalk) - An implementation of webhook used to notify GitHub repository events to DingTalk.
 - [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and containers, non-invasive minimal working setups
 - [UbuntuKylin/kylin-software-center](https://github.com/UbuntuKylin/kylin-software-center) - 
