@@ -72,6 +72,7 @@
 
 ## C 
 
+- [cogbt/COGBT](https://github.com/cogbt/COGBT) - Compile Optimization Guided Binary Translator (using llvm as infrastructure)
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
 - [wuhao9714/LinuxKernel](https://github.com/wuhao9714/LinuxKernel) - 北京大学软件与微电子学院《Linux内核分析与驱动编程》实验报告
 - [intel/qpl](https://github.com/intel/qpl) - Intel® Query Processing Library (Intel® QPL)
@@ -146,6 +147,8 @@
 
 ## C++ 
 
+- [orryon/memRnd](https://github.com/orryon/memRnd) - it's a little multithreaded random memory access measurement console tool running under the windows x64/x86
+- [emilk/ram_bench](https://github.com/emilk/ram_bench) - A benchmark for random memory accesses
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
 - [Theresa-0328/MHY_Scanner](https://github.com/Theresa-0328/MHY_Scanner) - 崩坏3，原神，星穹铁道的Windows平台的扫码和抢码登录器，支持从直播流抢码。
@@ -328,7 +331,6 @@
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
 - [sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation) - The documentation for LoongArch.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
@@ -343,7 +345,7 @@
 
 ## Handlebars 
 
-- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
+- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Haskell 
 
@@ -452,6 +454,7 @@
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [oscomp/proj3-PKE-oslabs](https://github.com/oscomp/proj3-PKE-oslabs) - 一组面向普通大学本科生的简单操作系统实验
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 - [uclasystem/Semeru](https://github.com/uclasystem/Semeru) - A Memory-Disaggregated Managed Runtime.
 - [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切
@@ -595,7 +598,7 @@
 - [kholia/mips-hacking](https://github.com/kholia/mips-hacking) - Notes on QEMU and Debian MIPS (big-endian)
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [pku-minic/compiler-dev](https://github.com/pku-minic/compiler-dev) - Compiler development environment.
-- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [isrc-cas/tarsier-oerv](https://github.com/isrc-cas/tarsier-oerv) - Project magament for porting openEuler to RISC-V
@@ -618,6 +621,7 @@
 
 ## Rust 
 
+- [datrs/random-access-disk](https://github.com/datrs/random-access-disk) - Continuously read/write to disk using random offsets and lengths .
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
@@ -961,7 +965,6 @@
 
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) - 🔎 互联网内推信息（社招、校招、实习）
@@ -1029,6 +1032,7 @@
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Your one-stop portal for following LoongArch upstream work.
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - Gitmoji tool for git commit messages in VSCode
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for macOS, Linux and Windows
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
