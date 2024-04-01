@@ -30,6 +30,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mojo](#mojo)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -403,7 +404,7 @@
 
 - [PartnerDAO/Prompt-Engineering-Guide-zh](https://github.com/PartnerDAO/Prompt-Engineering-Guide-zh) - 提示工程的指南、论文、讲座和资源，提示词逆向工程
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
-- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
+- [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes) - 一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
@@ -436,6 +437,10 @@
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## OCaml 
 
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -454,7 +459,6 @@
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [oscomp/proj3-PKE-oslabs](https://github.com/oscomp/proj3-PKE-oslabs) - 一组面向普通大学本科生的简单操作系统实验
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 - [uclasystem/Semeru](https://github.com/uclasystem/Semeru) - A Memory-Disaggregated Managed Runtime.
 - [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切
@@ -486,7 +490,7 @@
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [Jason2013/gslcl](https://github.com/Jason2013/gslcl) - Getting Started with LLVM Core Libraries （中文版），翻译：潘立丰
-- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
+- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) - 计算机的优秀课程
 - [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center) - Deepin developer center, provide developer wiki and community forum.
