@@ -17,6 +17,7 @@
 - [Coq](#coq)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
@@ -52,6 +53,7 @@
 - [Typst](#typst)
 - [V](#v)
 - [Verilog](#verilog)
+- [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -305,6 +307,10 @@
 - [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 - [z4yx/vivado-docker](https://github.com/z4yx/vivado-docker) - Dockerfile with Vivado for CI
 
+## EJS 
+
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
+
 ## Erlang 
 
 - [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine
@@ -348,7 +354,7 @@
 
 ## Handlebars 
 
-- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - &lt;&lt;Beat AI&gt;&gt; 专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [0x-ai/beat-ai](https://github.com/0x-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Haskell 
 
@@ -1055,7 +1061,6 @@
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [iTgo-lyq/Senki](https://github.com/iTgo-lyq/Senki) - 算法与数据结构可视化演练平台
 
 ## Typst 
@@ -1076,6 +1081,11 @@
 - [ultraembedded/riscv](https://github.com/ultraembedded/riscv) - RISC-V CPU Core (RV32IM)
 - [Evensgn/RISC-V-CPU](https://github.com/Evensgn/RISC-V-CPU) - RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.
 - [zhanghai/archexp](https://github.com/zhanghai/archexp) - 浙江大学计算机体系结构课程实验
+
+## Vim Script 
+
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 
 ## Visual Basic .NET 
 
