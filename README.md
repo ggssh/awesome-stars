@@ -78,6 +78,7 @@
 
 ## C 
 
+- [bcdev/jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
 - [cogbt/COGBT](https://github.com/cogbt/COGBT) - Compile Optimization Guided Binary Translator (using llvm as infrastructure)
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
 - [wuhao9714/LinuxKernel](https://github.com/wuhao9714/LinuxKernel) - 北京大学软件与微电子学院《Linux内核分析与驱动编程》实验报告
@@ -393,7 +394,6 @@
 ## JavaScript 
 
 - [TsukinaKasumi/StarRail-plugin](https://github.com/TsukinaKasumi/StarRail-plugin) - 星穹铁道插件
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PKUFlyingPig/CS61A](https://github.com/PKUFlyingPig/CS61A) - 
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
@@ -591,6 +591,7 @@
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
@@ -637,6 +638,7 @@
 
 ## Ruby 
 
+- [authorNari/g1gc-impl-book](https://github.com/authorNari/g1gc-impl-book) - 徹底解剖「G1GC」実装編
 - [brickpop/flutter-rust-ffi](https://github.com/brickpop/flutter-rust-ffi) - Starter project for Flutter plugins willing to access native and synchronous rust code using FFI
 
 ## Rust 
@@ -678,7 +680,7 @@
 - [rust-minidump/rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [dalance/svlint](https://github.com/dalance/svlint) - SystemVerilog linter
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
-- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
+- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [getditto/safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code
