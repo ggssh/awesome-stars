@@ -201,7 +201,6 @@
 - [tinsir888/compiler-sysy](https://github.com/tinsir888/compiler-sysy) - NKU CS major compulsory course in 5th semester, taught by Prof. Wang Gang. Finish a compiler of language SysY(A subset of language C), by using auxiliary tools bison and yacc. It is widely regarded as
 - [ustb-owl/Lava](https://github.com/ustb-owl/Lava) - A compiler of C subset by USTB OWL Wheel Lab.
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - UNMAINTAINED: Examples of using the LLVM and Clang compilation libraries and tools
 - [Alice-and-Bob/CS408](https://github.com/Alice-and-Bob/CS408) - 408的四门科目的知识点总结
@@ -436,6 +435,7 @@
 
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [Komorebi660/SysYF-Compiler](https://github.com/Komorebi660/SysYF-Compiler) - 2021年中国科学技术大学编译原理(H)课程实验项目
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures
 - [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南
 
