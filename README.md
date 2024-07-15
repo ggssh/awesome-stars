@@ -645,6 +645,9 @@
 
 ## Rust 
 
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
+- [ibraheemdev/seize](https://github.com/ibraheemdev/seize) - Fast, efficient, and robust memory reclamation for Rust.
+- [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust
 - [jiegec/cold](https://github.com/jiegec/cold) - The cold linker
 - [js2xxx/ferroc](https://github.com/js2xxx/ferroc) - A lock-free memory allocator
 - [datrs/random-access-disk](https://github.com/datrs/random-access-disk) - Continuously read/write to disk using random offsets and lengths .
@@ -667,7 +670,7 @@
 - [femtomc/mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [phodal/rust-llvm-practises](https://github.com/phodal/rust-llvm-practises) - Rust LLVM Practises
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) - Cross compile Cargo project to Windows MSVC target with ease
@@ -693,7 +696,7 @@
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
-- [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust.
+- [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [japaric/cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [KyleMayes/clang-sys](https://github.com/KyleMayes/clang-sys) - Rust bindings for libclang.
@@ -744,7 +747,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
