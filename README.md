@@ -645,6 +645,7 @@
 
 ## Rust 
 
+- [intel/ittapi](https://github.com/intel/ittapi) - Intel® Instrumentation and Tracing Technology (ITT) and Just-In-Time (JIT) API
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [ibraheemdev/seize](https://github.com/ibraheemdev/seize) - Fast, efficient, and robust memory reclamation for Rust.
 - [tokio-rs/slab](https://github.com/tokio-rs/slab) - Slab allocator for Rust
@@ -747,7 +748,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable SQL engine for event streams and time series data. Build live dashboards, event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch proces
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
@@ -984,7 +985,7 @@
 - [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
 - [ucb-bar/chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial) - chisel tutorial exercises and answers
 - [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a graph-based JVM build tool that supports Java and Scala. Mill aims to make your project’s build process performant, maintainable, and flexible
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java and Scala. Mill aims to make your project’s build process performant, maintainable, and flexible
 
 ## Scheme 
 
