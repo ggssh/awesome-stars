@@ -78,6 +78,7 @@
 
 ## C 
 
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [bcdev/jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
 - [cogbt/COGBT](https://github.com/cogbt/COGBT) - Compile Optimization Guided Binary Translator (using llvm as infrastructure)
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
@@ -97,6 +98,7 @@
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [computer-net/MIT-6.S081-2020](https://github.com/computer-net/MIT-6.S081-2020) - 2020年 MIT-6.S801 实验代码仓库
 - [lovelessless99/Just-In-Time-Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler) - 
+- [QQxiaoming/quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) - This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development
 - [Xlgd/csapp](https://github.com/Xlgd/csapp) - CSAPP exercises answers and labs
 - [sunshaoce/rvcc](https://github.com/sunshaoce/rvcc) - 本课程基于Rui的chibicc，@sunshaoce和@ksco将其由原来的X86架构改写为RISC-V 64架构，同时加入了大量的中文注释，并且配有316节对应于每一个commit的课程，帮助读者可以层层推进、逐步深入的学习编译器的构造。
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -154,6 +156,7 @@
 
 ## C++ 
 
+- [wanmuc/MyCoroutine](https://github.com/wanmuc/MyCoroutine) - 
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [codefollower/OpenJDK-Research](https://github.com/codefollower/OpenJDK-Research) - OpenJDK(HotSpot JVM、Javac)源代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
 - [orryon/memRnd](https://github.com/orryon/memRnd) - it's a little multithreaded random memory access measurement console tool running under the windows x64/x86
@@ -451,6 +454,7 @@
 - [green7ea/blog](https://github.com/green7ea/blog) - A short description of the C++ build process
 - [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
 - [elongbug/llvm-cookbook](https://github.com/elongbug/llvm-cookbook) - llvm-cookbook samples
+- [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 
 ## Markdown 
 
@@ -494,7 +498,6 @@
 - [brupst/awesome-bupt-scs](https://github.com/brupst/awesome-bupt-scs) - 北京邮电大学计算机学院本科编程作业索引
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [riscvarchive/riscv-cores-list](https://github.com/riscvarchive/riscv-cores-list) - RISC-V Cores, SoC platforms and SoCs
-- [QQxiaoming/quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) - This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development
 - [wyfcyx/CS-Awesome-Courses](https://github.com/wyfcyx/CS-Awesome-Courses) - 计算机的优秀课程
 - [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
@@ -522,7 +525,7 @@
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Young-Cody/CSC2021-NKU-TEDA](https://github.com/Young-Cody/CSC2021-NKU-TEDA) - 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081) - 
 - [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one) - 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
@@ -545,7 +548,6 @@
 - [KernelErr/awesome-rust-zh](https://github.com/KernelErr/awesome-rust-zh) - Rust资源分享中文版，每周三更新。
 - [liexusong/linux-source-code-analyze](https://github.com/liexusong/linux-source-code-analyze) - Linux内核源码分析
 - [decaf-lang/minidecaf](https://github.com/decaf-lang/minidecaf) - The MiniDecaf compilers.
-- [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [lazyparser/becoming-a-compiler-engineer-codes](https://github.com/lazyparser/becoming-a-compiler-engineer-codes) - 方舟编译入门技术课程的配套代码
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
@@ -750,7 +752,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
