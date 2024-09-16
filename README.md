@@ -156,6 +156,7 @@
 
 ## C++ 
 
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [wanmuc/MyCoroutine](https://github.com/wanmuc/MyCoroutine) - 
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [codefollower/OpenJDK-Research](https://github.com/codefollower/OpenJDK-Research) - OpenJDK(HotSpot JVM、Javac)源代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
@@ -590,7 +591,7 @@
 
 ## Python 
 
-- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Fl
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Fl
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
 - [infstellar/genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
@@ -797,7 +798,7 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [pku-minic/koopa](https://github.com/pku-minic/koopa) - Library for generating/parsing/optimizing Koopa IR.
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -853,7 +854,7 @@
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [KernelErr/MoeOS](https://github.com/KernelErr/MoeOS) - Cute tiny operating system for RISC-V. ฅ•ω•ฅ
 - [rcore-os/rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial) - Tutorial for rCore OS step by step (3rd edition)
-- [Pr47/Project-47](https://github.com/Pr47/Project-47) - The formal development repository for Pr47
+- [chuigda-wasteland/Project-47](https://github.com/chuigda-wasteland/Project-47) - The formal development repository for Pr47
 - [sajattack/bitbang-hal](https://github.com/sajattack/bitbang-hal) - Implements embedded-hal traits by bitbanging
 - [subconsciousnetwork/subtext](https://github.com/subconsciousnetwork/subtext) - Markup for note taking
 - [mbrubeck/robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
@@ -1014,7 +1015,7 @@
 - [scaleway/image-tools](https://github.com/scaleway/image-tools) - :nut_and_bolt: Scripts used to create Images on Scaleway - https://github.com/scaleway-community
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [No-SF-Work/miniSysY-tutorial](https://github.com/No-SF-Work/miniSysY-tutorial) - BUAASE2019级的编译实验的实验指导与实验安排
