@@ -591,7 +591,7 @@
 ## Python 
 
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
-- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Fl
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such 
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
 - [infstellar/genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
@@ -675,7 +675,7 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [femtomc/mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -791,7 +791,6 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -954,7 +953,7 @@
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [luoyou/lexer](https://github.com/luoyou/lexer) - rust 实现的语法分析
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
