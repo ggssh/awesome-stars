@@ -145,7 +145,7 @@
 
 ## C# # 
 
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋 Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
@@ -200,7 +200,6 @@
 - [jeaye/stdman](https://github.com/jeaye/stdman) - Formatted C++20 stdlib man pages (cppreference)
 - [TerenceNg03/RMMC](https://github.com/TerenceNg03/RMMC) - Course Project for 2022 ZJU Compiler Construction Principle and Practice
 - [juyaoliu/C-minus-compiler](https://github.com/juyaoliu/C-minus-compiler) - 同济大学编译原理课程设计类C编译器任务
-- [caohyang/Compiler-SysYF-CodeGen-Opt](https://github.com/caohyang/Compiler-SysYF-CodeGen-Opt) - 2021秋-编译原理与技术-代码优化
 - [zhuez16/bazinga_compiler](https://github.com/zhuez16/bazinga_compiler) - 
 - [tinsir888/compiler-sysy](https://github.com/tinsir888/compiler-sysy) - NKU CS major compulsory course in 5th semester, taught by Prof. Wang Gang. Finish a compiler of language SysY(A subset of language C), by using auxiliary tools bison and yacc. It is widely regarded as
 - [ustb-owl/Lava](https://github.com/ustb-owl/Lava) - A compiler of C subset by USTB OWL Wheel Lab.
@@ -374,6 +373,7 @@
 
 ## Java 
 
+- [real-logic/benchmarks](https://github.com/real-logic/benchmarks) - Latency benchmarks for messaging
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [huanmieruoshui/jdk8](https://github.com/huanmieruoshui/jdk8) - jdk8源码，会逐步加上自己的阅读注释。
@@ -552,7 +552,7 @@
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
 - [lazyparser/becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
-- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2024"相关信息
+- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2025"相关信息
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：编程与实战
 - [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
@@ -674,7 +674,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
-- [femtomc/mlir-sys](https://github.com/femtomc/mlir-sys) - Rust bindings to the MLIR C API.
+- [mlir-rs/mlir-sys](https://github.com/mlir-rs/mlir-sys) - Rust bindings to the MLIR C API.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
@@ -724,7 +724,7 @@
 - [KuangjuX/hypocaust](https://github.com/KuangjuX/hypocaust) - hypocaust, a S-mode trap and emulate type-1 hypervisor run on RISC-V machine.
 - [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
-- [raviqqe/melior](https://github.com/raviqqe/melior) - The rustic MLIR bindings in Rust
+- [mlir-rs/melior](https://github.com/mlir-rs/melior) - The rustic MLIR bindings in Rust
 - [ArtemSkrebkov/mlir-rust-toy](https://github.com/ArtemSkrebkov/mlir-rust-toy) - MLIR Toy tutorial in Rust! See how you can implement a programming language using MLIR and Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
@@ -756,7 +756,7 @@
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
 - [LemonHX/ioring-rs](https://github.com/LemonHX/ioring-rs) - ioring wrapper for windows-rs
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
@@ -790,6 +790,7 @@
 - [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
