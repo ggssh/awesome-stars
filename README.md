@@ -358,7 +358,7 @@
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2024年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [local-host-8080/demo-html-css](https://github.com/local-host-8080/demo-html-css) - 超好看的前端模板(学习用)
 - [HUST-OS/rvgj.qf.rs](https://github.com/HUST-OS/rvgj.qf.rs) - RISC-V在线开发工具
@@ -756,7 +756,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs) - Out-of-tree LLVM passes in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing platform for developers.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing and management platform.
 - [YdrMaster/try-libos](https://github.com/YdrMaster/try-libos) - 试试库操作系统
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [comradez/rust-SPPM](https://github.com/comradez/rust-SPPM) - 清华大学2021春季学期图形学真实感渲染大作业的一个rust实现
@@ -812,7 +812,7 @@
 - [sophiajt/rustyjit](https://github.com/sophiajt/rustyjit) - A JIT experiment in Rust
 - [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) - Support crate for rustc's self-profiling feature
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [crlf0710/tex-rs](https://github.com/crlf0710/tex-rs) - A port of TeX82 to Rust. (WIP)
@@ -1055,6 +1055,7 @@
 
 ## TypeScript 
 
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer
